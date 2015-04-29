@@ -1,5 +1,5 @@
 # Summary
 
 * [Зміст](README.md)
-* safdas
+* [safdas](1/vstup.md)
 
