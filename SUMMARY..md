@@ -1,5 +1,5 @@
 # Summary
 
 * Вступ до бiологiї та ботанiки
-   * Предмет вивчення бiологiї. Основнi ознаки живої матерiї Означення.
+   * [Предмет вивчення бiологiї. Основнi ознаки живої матерiї Означення.](predmet_vivchennya_biologi_osnovni_oznaki_zhivo_materi_oznachennya.md)
 
