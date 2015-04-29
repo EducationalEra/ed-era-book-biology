@@ -101,10 +101,10 @@
 }
 
 /*Ebio*/
-.task-wrap{
+.ebio-wrap{
     margin-bottom:1em;
 }
-.task {
+.ebio {
     background: #0F5181;
     border: 0.15em solid #0F5181;
     color:white;
@@ -114,7 +114,7 @@
     margin-bottom:5px;
 }
 
-.task-text {
+.ebio-text {
     width:100%;
     background: #fff;
     border-left: .15em solid #0F5181;
