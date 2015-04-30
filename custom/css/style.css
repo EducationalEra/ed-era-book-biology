@@ -233,7 +233,7 @@ default – "White"
 .book.color-theme-1 .ebio-wrap{
     margin-bottom:1em;
 }
-.ebio {
+.book.color-theme-1 .ebio {
     background: #704214;
     border: 0.15em solid #704214;
     color:#F3EACB;
@@ -242,7 +242,7 @@ default – "White"
     padding-right:10px;
     margin-bottom:5px;
 }
-.ebio-text {
+.book.color-theme-1 .ebio-text {
     width:100%;
     background: #F3EACB;
     border-left: .15em solid #704214;
