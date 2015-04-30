@@ -1,7 +1,7 @@
 # Клiтина та тканини рослин
 # Рослинна клiтина
 <div class="eoz-wrap">
-<span class="eoz">Означення<span>
+<span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Клiтина</b> — основна структурно-функцiональна одиниця живого.
 </div>
@@ -13,7 +13,7 @@
 Усi органели (постiйнi функцiональнi компоненти клiтини) знаходяться у цитоплазмi.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення<span>
+<span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Цитоплазма</b> — це внутрiшнє середовище клiтини.
 </div>
