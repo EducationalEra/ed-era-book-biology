@@ -11,7 +11,7 @@
 .book.color-theme-3 .eoz-wrap{
     margin-bottom:1em;
 }
-.eoz {
+.book.color-theme-3 .eoz {
     background: #0F5181;
     border: 0.15em solid #0F5181;
     color:white;
@@ -19,7 +19,7 @@
     padding-left:10px;
     padding-right:10px;
 }
-.eoz-text {
+.book.color-theme-3 .eoz-text {
     width:100%;
     background: #FAFAFA;
     border: .15em solid #0F5181;
