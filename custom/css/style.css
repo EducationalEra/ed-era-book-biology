@@ -6,16 +6,16 @@
 </div>
 </div>
 
-.book.color-theme-3 – "White"
+default – "White" 
 .book.color-theme-2 – "Sepia"
 .book.color-theme-1 – "Night"
 */
 
 /*Означення*/
-.book.color-theme-3 .eoz-wrap{
+.eoz-wrap{
     margin-bottom:1em;
 }
-.book.color-theme-3 .eoz {
+.eoz {
     background: #0F5181;
     border: 0.15em solid #0F5181;
     color:white;
@@ -23,7 +23,7 @@
     padding-left:10px;
     padding-right:10px;
 }
-.book.color-theme-3 .eoz-text {
+.eoz-text {
     width:100%;
     background: #FAFAFA;
     border: .15em solid #0F5181;
@@ -50,6 +50,24 @@
     padding-right:10px;
 }
 
+.book.color-theme-1 .eoz-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .eoz {
+    background: white;
+    border: 0.15em solid white;
+    color:blue;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+}
+.book.color-theme-1 .eoz-text {
+    width:100%;
+    background: #FAFAFA;
+    border: .15em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+}
 
 /*Задача*/
 .task-wrap{
