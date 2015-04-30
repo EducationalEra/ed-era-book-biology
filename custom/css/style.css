@@ -137,17 +137,10 @@ default – "White"
     border-bottom: .15em solid #704214;
 }
 
-.book.color-theme-2 .alg-wrap{
-    margin-bottom:1em;
-}
 .book.color-theme-2 .alg {
     background: #2c3043;
     border: 0.2em solid #2c3043;
     color:#bdcadb;
-    font-weight: bold;
-    padding-left:10px;
-    padding-right:10px;
-    margin-bottom:5px;
 }
 .book.color-theme-2 .alg-text {
     width:100%;
