@@ -7,5 +7,5 @@
    * [Бiологiчнi науки.](1/biologichni_nauki.md)
    * [Предмет вивчення ботанiки. Характеристика царства Рослини.](1/predmet_vivchennya_botaniki_harakteristika_tsarstva_roslini.md)
 * Клiтина та тканини рослин
-   * Рослинна клiтина
+   * [Рослинна клiтина](2/roslinna_klitina.md)
 
