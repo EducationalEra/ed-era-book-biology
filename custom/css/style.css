@@ -140,6 +140,28 @@ default – "White"
     border-bottom: .15em solid #faaf00;
 }
 
+.book.color-theme-1 .alg-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .alg {
+    background: #704214;
+    border: 0.2em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-1 .alg-text {
+    width:100%;
+    background: #F3EACB;
+    border-top: .15em solid #704214;
+    padding-left:10px;
+    padding-right:10px;
+    border-bottom: .15em solid #704214;
+}
+
+
 /*
 Додатково
 Цікаво
