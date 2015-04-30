@@ -91,6 +91,29 @@ default – "White"
     padding-right:10px;
 }
 
+.book.color-theme-1 .task-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-1 .task {
+    background: #faaf00;
+    border: 0.15em solid #faaf00;
+    color:white;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+
+.book.color-theme-1 .task-text {
+    width:100%;
+    background: #fff;
+    border-left: .15em solid #faaf00;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+
+
 /*
 Авторський алгоритм
 Як запам'ятати
