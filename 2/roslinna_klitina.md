@@ -38,7 +38,6 @@
 
 
 
-<div class="left-line">
 <div align="center">
 <img src="./pic1.png"  width="153" alt="Клітина"/>
 <p>На малюнку чiтко видно клiтинну стiнку з порами, яка оточує клiтину.</p>
@@ -81,7 +80,6 @@
 <div align="center">
 <img src="./pic8.png" width="153" alt="Хлоропласт"/>
 <p>Хлоропласт.</p>
-</div>
 </div>
 
 Особливостi, характернi саме для рослинної клiтини:
