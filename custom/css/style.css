@@ -54,9 +54,9 @@ default – "White"
     margin-bottom:1em;
 }
 .book.color-theme-2 .eoz {
-    background: white;
-    border: 0.15em solid white;
-    color:blue;
+    background: #1c1f2b;
+    border: 0.15em solid #1c1f2b;
+    color:#bdcadb;
     font-weight: bold;
     padding-left:10px;
     padding-right:10px;
