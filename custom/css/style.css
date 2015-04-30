@@ -8,7 +8,7 @@
 */
 
 /*Означення*/
-.eoz-wrap{
+.book.color-theme-3 .eoz-wrap{
     margin-bottom:1em;
 }
 .eoz {
@@ -26,6 +26,26 @@
     padding-left:10px;
     padding-right:10px;
 }
+
+.book.color-theme-2 .eoz-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .eoz {
+    background: white;
+    border: 0.15em solid white;
+    color:blue;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+}
+.book.color-theme-2 .eoz-text {
+    width:100%;
+    background: #FAFAFA;
+    border: .15em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+}
+
 
 /*Задача*/
 .task-wrap{
