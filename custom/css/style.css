@@ -7,8 +7,8 @@
 </div>
 
 default – "White" 
-.book.color-theme-2 – "Sepia"
-.book.color-theme-1 – "Night"
+.book.color-theme-2 – "Night"
+.book.color-theme-1 – "Sepia"
 */
 
 /*Означення*/
@@ -31,10 +31,10 @@ default – "White"
     padding-right:10px;
 }
 
-.book.color-theme-2 .eoz-wrap{
+.book.color-theme-1 .eoz-wrap{
     margin-bottom:1em;
 }
-.book.color-theme-2 .eoz {
+.book.color-theme-1 .eoz {
     background: #afa790;
     border: 0.15em solid #101010;
     color:#704214;
@@ -42,7 +42,7 @@ default – "White"
     padding-left:10px;
     padding-right:10px;
 }
-.book.color-theme-2 .eoz-text {
+.book.color-theme-1 .eoz-text {
     width:100%;
     background: #afa790;
     border: .15em solid #101010;
