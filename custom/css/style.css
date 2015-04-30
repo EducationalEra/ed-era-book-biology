@@ -82,7 +82,6 @@ default – "White"
     padding-right:10px;
     margin-bottom:5px;
 }
-
 .task-text {
     width:100%;
     background: #fff;
@@ -103,7 +102,6 @@ default – "White"
     padding-right:10px;
     margin-bottom:5px;
 }
-
 .book.color-theme-1 .task-text {
     width:100%;
     background: #F3EACB;
@@ -112,6 +110,25 @@ default – "White"
     padding-right:10px;
 }
 
+.book.color-theme-2 .task-wrap{
+    margin-bottom:1em;
+}
+.book.color-theme-2 .task {
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.book.color-theme-2 .task-text {
+    width:100%;
+    background: #F3EACB;
+    border-left: .15em solid #704214;
+    padding-left:10px;
+    padding-right:10px;
+}
 
 
 /*
