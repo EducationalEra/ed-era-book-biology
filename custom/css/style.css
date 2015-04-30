@@ -272,7 +272,7 @@ default – "White"
     font-size: 12pt;
 }
 
-.im:click {
+.im:hower {
 -webkit-transform:scale(1.5);
 transform:scale(1.5);
 }
