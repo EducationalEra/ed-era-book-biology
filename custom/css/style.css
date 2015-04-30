@@ -95,9 +95,9 @@ default – "White"
     margin-bottom:1em;
 }
 .book.color-theme-1 .task {
-    background: #faaf00;
-    border: 0.15em solid #faaf00;
-    color:white;
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
     font-weight: bold;
     padding-left:10px;
     padding-right:10px;
@@ -106,8 +106,8 @@ default – "White"
 
 .book.color-theme-1 .task-text {
     width:100%;
-    background: #fff;
-    border-left: .15em solid #faaf00;
+    background: #F3EACB;
+    border-left: .15em solid #704214;
     padding-left:10px;
     padding-right:10px;
 }
