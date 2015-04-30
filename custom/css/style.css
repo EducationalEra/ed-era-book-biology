@@ -128,3 +128,8 @@
 .image {
     background: #FAFAFA;
 }
+
+.picture {
+    margin-left: auto;
+    margin-right:auto;
+}
