@@ -49,19 +49,23 @@
 <div align="center">
 <div class="picture">
 <img src="./pic2.png" width="153" alt="Хроматин"/>
-</div>
 <p>Лiва верхня частина – хроматин (розкрученi хромосоми) всерединi
 ядра. Зовнiшня оболонка ядра поступово переходить в ендоплазматичну сiтку (зафарбована темно-сiрим кольором).</p>
 </div>
-
-<div align="center">
-<img src="./pic3.png" width="153" alt="Ядерна пора в ядерній оболонці"/>
-<p>Ядерна пора в ядернiй оболонцi.</p>
 </div>
 
 <div align="center">
+<div class="picture">
+<img src="./pic3.png" width="153" alt="Ядерна пора в ядерній оболонці"/>
+<p>Ядерна пора в ядернiй оболонцi.</p>
+</div>
+</div>
+
+<div align="center">
+<div class="picture">
 <img src="./pic4.png" width="203" alt="Гранулярна ендоплазматична стінка"/>
 <p>Гранулярна ЕПС, на якiй позначено рибосоми.</p>
+</div>
 </div>
 
 <div align="center">
