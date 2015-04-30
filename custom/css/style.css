@@ -35,9 +35,9 @@ default – "White"
     margin-bottom:1em;
 }
 .book.color-theme-1 .eoz {
-    background: #afa790;
-    border: 0.15em solid #101010;
-    color:#704214;
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
     font-weight: bold;
     padding-left:10px;
     padding-right:10px;
