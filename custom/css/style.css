@@ -273,10 +273,10 @@ default – "White"
 }
 
 .im:hover {
--webkit-transform:scale(1.5);
-transform:scale(1.5);
+-webkit-transform:scale(1.4);
+transform:scale(1.4);
 }
 .im {
--webkit-transition: all 0.7s ease;
+-webkit-transition: all 0.8s ease;
 transition: all 0.7s ease;
 }
