@@ -221,12 +221,32 @@ default – "White"
     padding-right:10px;
     margin-bottom:5px;
 }
-
 .ebio-text {
     width:100%;
     background: #fff;
     border-left: .15em solid #0F5181;
     border-top: .15em solid #0F5181;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.book.color-theme-1 .ebio-wrap{
+    margin-bottom:1em;
+}
+.ebio {
+    background: #704214;
+    border: 0.15em solid #704214;
+    color:#F3EACB;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
+}
+.ebio-text {
+    width:100%;
+    background: #F3EACB;
+    border-left: .15em solid #704214;
+    border-top: .15em solid #704214;
     padding-left:10px;
     padding-right:10px;
 }
