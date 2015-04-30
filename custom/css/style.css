@@ -44,16 +44,10 @@ default – "White"
     border: .15em solid #704214;
 }
 
-.book.color-theme-2 .eoz-wrap{
-    margin-bottom:1em;
-}
 .book.color-theme-2 .eoz {
     background: #2C3043;
     border: 0.15em solid #2C3043;
     color:#bdcadb;
-    font-weight: bold;
-    padding-left:10px;
-    padding-right:10px;
 }
 .book.color-theme-2 .eoz-text {
     width:100%;
