@@ -122,7 +122,7 @@
     padding-left:10px;
     padding-right:10px;
 }
-
+/*-------------------------------------------*/
 
 
 .image {
@@ -132,7 +132,14 @@
 .left-line {
     border-left:0.3em solid #FAFAFA;
 }
-.left{
+
+/*Для таблицы*/
+.left {
+    font-weight: 400;
+    text-align: left;
+    font-size: 11pt;
+}
+.center {
     font-weight: 400;
     text-align: left;
     font-size: 11pt;
