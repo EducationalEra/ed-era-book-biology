@@ -56,9 +56,6 @@ default – "White"
 }
 
 /*Задача*/
-.task-wrap{
-    margin-bottom:1em;
-}
 .task {
     background: #faaf00;
     border: 0.15em solid #faaf00;
@@ -72,8 +69,6 @@ default – "White"
     width:100%;
     background: #fff;
     border-left: .15em solid #faaf00;
-    padding-left:10px;
-    padding-right:10px;
 }
 
 .book.color-theme-1 .task-wrap{
