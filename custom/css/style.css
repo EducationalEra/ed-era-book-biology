@@ -50,10 +50,10 @@ default – "White"
     padding-right:10px;
 }
 
-.book.color-theme-1 .eoz-wrap{
+.book.color-theme-2 .eoz-wrap{
     margin-bottom:1em;
 }
-.book.color-theme-1 .eoz {
+.book.color-theme-2 .eoz {
     background: white;
     border: 0.15em solid white;
     color:blue;
@@ -61,7 +61,7 @@ default – "White"
     padding-left:10px;
     padding-right:10px;
 }
-.book.color-theme-1 .eoz-text {
+.book.color-theme-2 .eoz-text {
     width:100%;
     background: #FAFAFA;
     border: .15em solid #0F5181;
