@@ -30,6 +30,7 @@
 <div class="zoomOutOn">
 </div>
 </div>
+
 <p align="center">
 Табл. 1: Постійні тканини
 </p>
