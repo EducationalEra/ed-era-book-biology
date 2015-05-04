@@ -23,6 +23,8 @@
 
 ![Тканини рослин](2.1.png)
 
+<img id="img1" src="2.1.png" data-elem="pinchzoomer"/>
+
 <p align="center">
 Табл. 1: Постійні тканини
 </p>
