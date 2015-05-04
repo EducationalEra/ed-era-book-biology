@@ -26,7 +26,9 @@
 <div>
 <img id="img1" src="2.1.png" data-elem="pinchzoomer"/>
 <div class="zoomInOn">
+</div>
 <div class="zoomOutOn">
+</div>
 </div>
 <p align="center">
 Табл. 1: Постійні тканини
