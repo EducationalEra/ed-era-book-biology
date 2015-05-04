@@ -27,11 +27,6 @@
 Табл. 1: Постійні тканини
 </p>
 
-<img src="2.1.png" id="img_02"/>
-
-<script type="text/javascript">
-$("#img_02").imageLens({ lensSize: 200 });
-</script >
 
 <table>
 <tr>
