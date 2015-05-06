@@ -9,4 +9,5 @@
 * [Клiтина та тканини рослин](2/roslinna_klitina.md)
    * [Рослинна клiтина](2/roslinna_klitina.md)
    * [Рослиннi тканини](2/roslinni_tkanini.md)
+* Вегетативнi органи рослин
 
