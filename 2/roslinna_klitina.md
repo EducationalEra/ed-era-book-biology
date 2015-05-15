@@ -34,10 +34,6 @@
 У клiтинi рослини також мiстяться включення – непостiйнi компоненти. До включень належать, наприклад, пiгменти або кристали
 щавлевокислого кальцiю (кальцiй оксалату).
 
-{% modalYoutube %}https://www.youtube.com/embed/5AmRo_dd-Hg|
-<img class="shake" src="../Oval 1.png" width="100"/>
-|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
-
 
 | Двомембраннi | Одномембраннi | Немембраннi |
 | --- | --- | -- |
