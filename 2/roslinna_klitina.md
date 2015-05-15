@@ -12,6 +12,11 @@
 кристали щавлевокислого кальцiю (кальцiй оксалату).
 Усi органели (постiйнi функцiональнi компоненти клiтини) знаходяться у цитоплазмi.
 
+{% modalYoutube %}https://www.youtube.com/embed/SK1IVPwFjkw|
+<img class="shake" src="../Oval 1.png" width="100"/>
+|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+
+
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
