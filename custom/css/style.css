@@ -308,16 +308,9 @@ transition: all 0.8s ease;
 }
 
 .book.color-theme-1 .but {
-    padding-left:10px;
-    padding-right:10px;
-    padding-top:10px;
-    padding-bottom:10px;
     background: #8c6742;
     border: solid 1px #704214;
     color:#F3EACB;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
 }
 
 .book.color-theme-1 .but:hover {
@@ -331,16 +324,9 @@ transition: all 0.8s ease;
 }
 
 .book.color-theme-2 .but {
-    padding-left:10px;
-    padding-right:10px;
-    padding-top:10px;
-    padding-bottom:10px;
     background: #565968;
     border: solid 1px #2c3043;
     color:#bdcadb;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
 }
 
 .book.color-theme-2 .but:hover {
