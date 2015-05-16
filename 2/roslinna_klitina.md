@@ -94,21 +94,22 @@
 * Накопичення крохмалю.
  
 
-<quiz name="History" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz name="History" correctLabel="correct" 
 <question text="До основних функцій ядра належать:">
-<answer>рабовласницькі імперії</answer>    
-<answer correct>племінні союзи</answer>
-<answer>міста-держави</answer>
-<answer>удільні князівства</answer>
-</question>
-<question text="На території якого племені було закладено Київ:">
 <answer>Участь у синтезі білків</answer>    
 <answer>Бар'єрна та транспортна функція</answer>
 <answer correct>Керування всіма процесами в клітині та збереження спадкової інформації</answer>
 <answer>Формування міжклітинних контактів</answer>
 <explanation>Участь у синтезі білків – це функція рибосом, а бар'єрна, транспортна функції з формуванням міжклітинних контактів – це функції плазмалеми (плазматичної мембрани), що оточує клітину.</explanation>
 </question>
+<question text="Зазначте місце синтезу жирів у клітині:">
+<answer>Ядро</answer>    
+<answer correct>Гладенька ЕПС</answer>
+<answer>Зерниста ЕПС</answer>
+<answer>Мітохондрія</answer>
+<explanation>В ядрі зберігається спадкова інформація, на зернистій ЕПС синтезуються білки, а в мітохондрії відбувається дихання, внаслідок якого синтезується АТФ.</explanation>
+</question>
 </quiz>
-
+Зазначте місце синтезу жирів у клітині:
 
 
