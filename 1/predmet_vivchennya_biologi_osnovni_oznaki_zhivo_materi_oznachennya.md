@@ -151,3 +151,16 @@
 -   Наземно-повітряне
 
 -   Організми, як середовище життя
+
+   
+<quiz name="Biology" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<question text="Усі живі істоти ОКРІМ яких побудовані із клітин?">
+<answer>рослини</answer>    
+<answer correct>віруси</answer>
+<answer>тварини</answer>
+</question>
+<question text="Ріст - це:">
+<answer>якісні зміни організму</answer>    
+<answer correct>кількісні зміни організму</answer>
+</question>
+</quiz>
