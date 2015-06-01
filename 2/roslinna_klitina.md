@@ -14,7 +14,7 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/SK1IVPwFjkw|
 <img class="shake" src="../Oval 1.png" width="100"/>
-|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 
 <div class="eoz-wrap">
@@ -92,23 +92,25 @@
 * Наявнiсть пластид
 * Наявнiсть великої вакуолi, заповненої клiтинним соком
 * Накопичення крохмалю.
- 
 
-<quiz name="Biology" correctLabel="correct" 
-<question text="До основних функцій ядра належать:">
-<answer>Участь у синтезі білків</answer>    
-<answer>Бар'єрна та транспортна функція</answer>
-<answer correct>Керування всіма процесами в клітині та збереження спадкової інформації</answer>
-<answer>Формування міжклітинних контактів</answer>
-<explanation>Участь у синтезі білків – це функція рибосом, а бар'єрна, транспортна функції з формуванням міжклітинних контактів – це функції плазмалеми (плазматичної мембрани), що оточує клітину.</explanation>
-</question>
-<question text="Зазначте місце синтезу жирів у клітині:">
-<answer>Ядро</answer>    
-<answer correct>Гладенька ЕПС</answer>
-<answer>Зерниста ЕПС</answer>
-<answer>Мітохондрія</answer>
-<explanation>В ядрі зберігається спадкова інформація, на зернистій ЕПС синтезуються білки, а в мітохондрії відбувається дихання, внаслідок якого синтезується АТФ.</explanation>
-</question>
+
+<quiz name="Biology" correctLabel="correct"
+    <question text="">
+        <p>До основних функцій ядра належать:</p>
+        <answer>Участь у синтезі білків</answer>
+        <answer>Бар'єрна та транспортна функція</answer>
+        <answer correct>Керування всіма процесами в клітині та збереження спадкової інформації</answer>
+        <answer>Формування міжклітинних контактів</answer>
+        <explanation>Участь у синтезі білків – це функція рибосом, а бар'єрна, транспортна функції з формуванням міжклітинних контактів – це функції плазмалеми (плазматичної мембрани), що оточує клітину.</explanation>
+    </question>
+    <question text="">
+        <p>Зазначте місце синтезу жирів у клітині:</p>
+        <answer>Ядро</answer>
+        <answer correct>Гладенька ЕПС</answer>
+        <answer>Зерниста ЕПС</answer>
+        <answer>Мітохондрія</answer>
+        <explanation>В ядрі зберігається спадкова інформація, на зернистій ЕПС синтезуються білки, а в мітохондрії відбувається дихання, внаслідок якого синтезується АТФ.</explanation>
+    </question>
 </quiz>
 
 

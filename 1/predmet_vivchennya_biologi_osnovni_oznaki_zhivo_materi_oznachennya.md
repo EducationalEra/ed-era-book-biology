@@ -32,7 +32,7 @@
 
 
 
-За рахунок живлення живі істоти отримують необхідні їм поживні речовини. Потрапляючи в організм, поживні речовини розщеплюються під дією біологічно активних речовин, при цьому виділяється енергія, яку організм використовує для підтримки основних процесів життєдіяльності. 
+За рахунок живлення живі істоти отримують необхідні їм поживні речовини. Потрапляючи в організм, поживні речовини розщеплюються під дією біологічно активних речовин, при цьому виділяється енергія, яку організм використовує для підтримки основних процесів життєдіяльності.
 Залежно від *типу дихання*, організми поділяють на аеробів та анаеробів.
 
 
@@ -138,7 +138,7 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/q4H2Yvk8-98|
 <img class="shake" src="../Oval 1.png" width="100"/>
-|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %} 
+|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 
 
 
@@ -152,15 +152,17 @@
 
 -   Організми, як середовище життя
 
-   
+
 <quiz name="Biology" correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
-<question text="Усі живі істоти ОКРІМ яких побудовані із клітин?">
-<answer>рослини</answer>    
-<answer correct>віруси</answer>
-<answer>тварини</answer>
-</question>
-<question text="Ріст - це:">
-<answer>якісні зміни організму</answer>    
-<answer correct>кількісні зміни організму</answer>
-</question>
+    <question text="">
+        <p>Усі живі істоти ОКРІМ яких побудовані із клітин?</p>
+        <answer>рослини</answer>
+        <answer correct>віруси</answer>
+        <answer>тварини</answer>
+    </question>
+    <question text="">
+        <p>Ріст - це:</p>
+        <answer>якісні зміни організму</answer>
+        <answer correct>кількісні зміни організму</answer>
+    </question>
 </quiz>
