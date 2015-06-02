@@ -448,6 +448,7 @@ transition: all 0.8s ease;
 .quiz-question-explanation {
   font-size:1.6rem;  
   background-color: #eee;
+  padding: 10px 10px;
 }
 
 
