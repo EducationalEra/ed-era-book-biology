@@ -47,12 +47,6 @@
         <answer>Фотосинтез властивий лише паразитичним рослинам</answer>
         <answer>Клітинна стінка в рослин містить хітин і целюлозу</answer>
     </question>
-    <question text="">
-    <p>Кочівники, що змогли побудувати свою протодержаву:</p>
-    <answer>кіммерійці</answer>
-    <answer>готи</answer>
-    <answer>сармати</answer>
-    <answer correct>скіфи</answer>
 </quiz>
 
 <!--    
