@@ -384,6 +384,12 @@ transition: all 0.8s ease;
     margin-left: 10px;
 }
 
+/* span текста */
+.check-label {
+font-weight: 600;
+font-size: 1.0em;
+}
+
 .quiz-question-check {
     background: #eee;
     border: 1.5px solid;
