@@ -45,6 +45,7 @@
 |<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
+<div>
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
     <question text="">
         <p>Вірним є твердження:</p>
@@ -55,5 +56,5 @@
     <explanation>Рослини запасають не глікоген, а крохмаль. Необмежений ріст – характерна особливість царства Рослини. Фотосинтез властивий усім рослинам, окрім паразитичних. Клітинна стінка в рослин містить целюлозу, а не хітин.</explanation>
     </question>
 </quiz>
-
+</div>
 
