@@ -446,8 +446,8 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-explanation {
-  font-size:1.6rem;  
-  background-color: #eee;
+  font-size:1.6rem;
+  border: 1.5px solid rgb(99,131,168);
   padding: 10px 18px;
 }
 
