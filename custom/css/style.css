@@ -377,10 +377,10 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-check {
-    background: red;
+    background: #eee;
     border: 2px solid;
     border-radius: 25px;
-    color:#3c3c3c
+    color:#red;
 }
 
 .
