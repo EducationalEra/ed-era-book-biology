@@ -445,6 +445,10 @@ transition: all 0.8s ease;
   font-weight:300;
 }
 
+.quiz-question-explanation {
+  font-size:1.6rem;  
+  background-color: ;
+}
 
 
 
