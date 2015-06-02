@@ -376,7 +376,7 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-text {
-    font-weight: 650;
+    font-weight: 550;
     color: #3C3C3C;
     margin-bottom: 8px;
 }
