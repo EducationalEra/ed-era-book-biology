@@ -376,7 +376,7 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-text {
-    font-weight:500;
+    font-weight: 500;
     color: #3C3C3C;
 }
 
@@ -392,8 +392,8 @@ transition: all 0.8s ease;
 
 /* span текста */
 .check-label {
-font-weight: 600;
-font-size: 1.0em;
+    font-weight: 600;
+    font-size: 1.0em;
 }
 
 .quiz-question-check {
