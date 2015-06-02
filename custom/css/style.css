@@ -408,9 +408,6 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-check:hover {
-    background-image: -o-linear-gradient(-90deg, #CFC6C6 0%, #CFC6C6 80%);
-    background-image: -moz-linear-gradient(-90deg, #CFC6C6 0%, #CFC6C6 80%);
-    background-image: -ms-linear-gradient(-90deg, #CFC6C6 0%, #CFC6C6 80%);
-    background-image: linear-gradient(-180deg, #CFC6C6 0%, #CFC6C6 80%);
-    border: 1.5px solid #CFC6C6;
+    -moz-box-shadow:    0px 2px 4px 0px rgba(0,0,0,0.50);
+    box-shadow:         0px 2px 4px 0px rgba(0,0,0,0.50);
 }
