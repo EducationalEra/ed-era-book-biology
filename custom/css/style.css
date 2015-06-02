@@ -405,15 +405,12 @@ transition: all 0.8s ease;
     background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: linear-gradient(-180deg, #FFFFFF 0%, #CFC6C6 80%);
     border: 1.5px solid #CFC6C6;
-    -o-transition: background-image .5s ease-out, background 2s ease-in;
-  -ms-transition: background-image .5s ease-out, background 2s ease-in;
-  -moz-transition: background-image .5s ease-out, background 2s ease-in;
-  -webkit-transition: background-image .5s ease-out, background 2s ease-in;
-  /* ...and now for the proper property */
-  transition:background-image .5s ease-out, background 2s ease-in;
 }
 
 .quiz-question-check:hover {
+    transition: 2s;
+    -moz-transition: 2s;
+    -webkit-transition: 2s;
      background-image: -o-linear-gradient(-90deg, #eee 0%, #eee);
     background-image: -moz-linear-gradient(-90deg, #eee 0%, #eee);
     background-image: -ms-linear-gradient(-90deg, #eee 0%, #eee);
