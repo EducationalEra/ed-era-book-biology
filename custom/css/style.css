@@ -376,7 +376,7 @@ transition: all 0.8s ease;
     margin-bottom:5px;
 }
 
-button .quiz-question-check {
+.quiz-question-check {
     background: red;
     border: 2px solid;
     border-radius: 25px;
