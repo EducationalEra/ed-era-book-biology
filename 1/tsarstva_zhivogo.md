@@ -15,6 +15,9 @@
 У Доядерних організмів ядро відсутнє, а спадкова інформація зберігається
 у вигляді великої молекули ДНК, яку називають нуклеоїдом. До Прокаріотів належить царство Бактерії.
 
+http://youtu.be/ir4phST2pMs
+
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Кішка належить до царства:</p>
