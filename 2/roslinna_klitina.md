@@ -94,7 +94,7 @@
 * Накопичення крохмалю.
 
 
-<quiz name="Biology" correctLabel="correct"
+<quiz correctLabel="correct"
     <question text="">
         <p>До основних функцій ядра належать:</p>
         <answer>Участь у синтезі білків</answer>
