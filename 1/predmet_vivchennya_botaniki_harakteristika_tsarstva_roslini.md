@@ -39,11 +39,11 @@
 4.  **Запасаюча речовина – крохмаль.** Поживні речовини в різних організмів запасаються у вигляді різних
     вуглеводів. В клітинах рослин запасаються зерна
 
-
+<div>
 {% modalYoutube %}https://www.youtube.com/embed/OQJSRqhJ-Ow|
 <img class="shake" src="../Oval 1.png" width="100"/>
 |<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
-
+</div>
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
     <question text="">
