@@ -380,6 +380,10 @@ transition: all 0.8s ease;
     border: none;
 }
 
+quiz-answer {
+    margin-left: 10px;
+}
+
 .quiz-question-check {
     background: #eee;
     border-color: #CFC6C6;
