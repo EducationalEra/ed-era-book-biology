@@ -400,6 +400,9 @@ transition: all 0.8s ease;
 .quiz-question-check {
     margin-top: 10px;
     border-radius: 5px;
+    transition: 2s;
+    -moz-transition: 2s;
+    -webkit-transition: 2s; 
     background-image: -o-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
