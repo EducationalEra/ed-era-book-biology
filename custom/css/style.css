@@ -369,6 +369,10 @@ transition: all 0.8s ease;
 
 /* Quize style */
 quiz {
-    background-color: #b0c4de;
-    color: blue;
+    background: #0F5181;
+    border: 0.2em solid #0F5181;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:10px;
+    margin-bottom:5px;
 }
