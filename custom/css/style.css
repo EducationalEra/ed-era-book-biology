@@ -379,7 +379,7 @@ transition: all 0.8s ease;
 .quiz-question-check {
     background: #eee;
     border-color: #CFC6C6;
-    border: 2px solid;
+    border: 1px solid;
     border-radius: 2em;
     color: red;
 }
