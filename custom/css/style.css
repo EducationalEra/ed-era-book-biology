@@ -411,10 +411,10 @@ transition: all 0.8s ease;
     transition: 2s;
     -moz-transition: 2s;
     -webkit-transition: 2s;
-     background-image: -o-linear-gradient(-90deg, #eee 0%, #eee);
-    background-image: -moz-linear-gradient(-90deg, #eee 0%, #eee);
-    background-image: -ms-linear-gradient(-90deg, #eee 0%, #eee);
-    background-image: linear-gradient(-180deg, #eee 0%, #eee);
+     background-image: -o-linear-gradient(-90deg, #CFC6C6 0%, #CFC6C6);
+    background-image: -moz-linear-gradient(-90deg, #CFC6C6 0%, #CFC6C6);
+    background-image: -ms-linear-gradient(-90deg, #CFC6C6 0%, #CFC6C6);
+    background-image: linear-gradient(-180deg, #CFC6C6 0%, #CFC6C6);
 }
 
 
