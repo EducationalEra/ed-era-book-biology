@@ -396,6 +396,7 @@ line-height: 40px;
 .quiz-answer {
     margin-left: 10px;
     color: #3c3c3c;
+    font-weight: lighter;
 }
 
 /* span текста */
