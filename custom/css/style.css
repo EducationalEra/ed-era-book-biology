@@ -392,7 +392,7 @@ transition: all 0.8s ease;
 }
 
 
-
+/*
 .quiz-question-check {
     margin-top: 10px;
     border-radius: 5px;
@@ -411,17 +411,6 @@ transition: all 0.8s ease;
     transition: background-image 2s;
 }
 
-@-webkit-keyframes example {
-    from {background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);}
-    to {background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);}
-}
-
-@keyframes example {
-    from {background-image: linear-gradient(-180deg, #FFFFFF 0%, #CFC6C6 80%);}
-    to {background-image: linear-gradient(-180deg, #FFFFFF 0%, #010101 100%);}
-}
-
-/*
 .quiz-question-check:hover {
     background-image: -o-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);
     background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);
