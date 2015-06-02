@@ -387,7 +387,7 @@ transition: all 0.8s ease;
 .quiz-answer {
     margin-left: 10px;
     color: #3c3c3c;
-    font-weight: lighter;
+    font-weight: normal;
 }
 
 /* span текста */
