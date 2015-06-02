@@ -405,15 +405,13 @@ transition: all 0.8s ease;
     background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: linear-gradient(-180deg, #FFFFFF 0%, #CFC6C6 80%);
-    transition: 2s;
-    -moz-transition: 2s;
-    -webkit-transition: 2s;
+    -moz-transition: background-image 2s;
+    -webkit-transition: background-image 2s;
+    -o-transition: background-image 2s;
+    transition: background-image 2s;
 }
 
 .quiz-question-check:hover {
-    transition: 2s;
-    -moz-transition: 2s;
-    -webkit-transition: 2s;
     background-image: -o-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);
     background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);
     background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);
