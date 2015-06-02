@@ -408,6 +408,7 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-check:hover {
-    -moz-box-shadow:    -1px 3px 2px 0px rgba(0,0,0,0.50);
-    box-shadow:         -1px 3px 2px 0px rgba(0,0,0,0.50);
+/*    -moz-box-shadow:    -1px 3px 2px 0px rgba(0,0,0,0.50);
+    box-shadow:         -1px 3px 2px 0px rgba(0,0,0,0.50); */
+    border: 1.5px solid black;
 }
