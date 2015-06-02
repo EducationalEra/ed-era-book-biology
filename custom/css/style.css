@@ -365,3 +365,9 @@ transition: all 0.8s ease;
 .top150 {
     margin-top: 150px!important;
 }
+
+
+/* Quize style */
+quiz {
+    background-color: #b0c4de;
+}
