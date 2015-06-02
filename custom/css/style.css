@@ -376,7 +376,7 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-text {
-    font-weight: normal;
+    font-weight:500;
     color: #3C3C3C;
 }
 
@@ -387,7 +387,7 @@ transition: all 0.8s ease;
 .quiz-answer {
     margin-left: 10px;
     color: #3c3c3c;
-    font-weight: normal;
+    font-weight:400;
 }
 
 /* span текста */
