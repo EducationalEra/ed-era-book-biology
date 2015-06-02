@@ -407,9 +407,9 @@ font-size: 1.0em;
 
 .quiz-question-check {
     border-radius: 5px;
-    background-image: -o-linear-gradient(-89deg, #FFFFFF 0%, #CFC6C6 80%);
-    background-image: -moz-linear-gradient(-89deg, #FFFFFF 0%, #CFC6C6 80%);
-    background-image: -ms-linear-gradient(-89deg, #FFFFFF 0%, #CFC6C6 80%);
-    background-image: linear-gradient(-179deg, #FFFFFF 0%, #CFC6C6 80%);
+    background-image: -o-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
+    background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
+    background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
+    background-image: linear-gradient(-180deg, #FFFFFF 0%, #CFC6C6 80%);
     border: 1.5px solid #CFC6C6;
 }
