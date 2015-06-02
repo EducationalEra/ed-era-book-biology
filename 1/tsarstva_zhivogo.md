@@ -15,7 +15,10 @@
 У Доядерних організмів ядро відсутнє, а спадкова інформація зберігається
 у вигляді великої молекули ДНК, яку називають нуклеоїдом. До Прокаріотів належить царство Бактерії.
 
-http://youtu.be/ir4phST2pMs
+{% modalYoutube %}https://www.youtube.com/embed/ir4phST2pMs|
+<img class="shake" src="../Oval 1.png" width="100"/>
+|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
