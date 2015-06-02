@@ -401,6 +401,10 @@ transition: all 0.8s ease;
     margin-top: 10px;
     border-radius: 5px;
     border: 1.5px solid #CFC6C6;
+    -webkit-animation-name: button;
+    -webkit-animation-duration: .5s;
+    animation-name: button;
+    animation-duration: .5s;
     background-image: -o-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
@@ -410,6 +414,17 @@ transition: all 0.8s ease;
     -o-transition: background-image 2s;
     transition: background-image 2s;
 }
+
+@-webkit-keyframes example {
+    from {background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);}
+    to {background-image: -moz-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);}
+}
+
+@keyframes example {
+    from {background-image: linear-gradient(-180deg, #FFFFFF 0%, #CFC6C6 80%);}
+    to {background-image: linear-gradient(-180deg, #FFFFFF 0%, #010101 100%);}
+}
+
 
 .quiz-question-check:hover {
     background-image: -o-linear-gradient(-90deg, #FFFFFF 0%, #010101 100%);
