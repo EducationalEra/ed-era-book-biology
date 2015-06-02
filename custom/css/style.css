@@ -387,6 +387,6 @@ quiz-answer {
 .quiz-question-check {
     background: #eee;
     border-color: #CFC6C6;
-    border: 1px solid;
+    border: 2px solid;
     border-radius: 10px;
 }
