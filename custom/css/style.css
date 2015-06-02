@@ -362,6 +362,6 @@ transition: all 0.8s ease;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
 }
-.top100 {
-    margin-top: 100px;
+.top150 {
+    margin-top: 150px!important;
 }
