@@ -405,6 +405,12 @@ transition: all 0.8s ease;
     background-image: -ms-linear-gradient(-90deg, #FFFFFF 0%, #CFC6C6 80%);
     background-image: linear-gradient(-180deg, #FFFFFF 0%, #CFC6C6 80%);
     border: 1.5px solid #CFC6C6;
+    -o-transition:color .5s ease-out, background 2s ease-in;
+  -ms-transition:color .5s ease-out, background 2s ease-in;
+  -moz-transition:color .5s ease-out, background 2s ease-in;
+  -webkit-transition:color .5s ease-out, background 2s ease-in;
+  /* ...and now for the proper property */
+  transition:color .5s ease-out, background 2s ease-in;
 }
 
 .quiz-question-check:hover {
@@ -412,3 +418,17 @@ transition: all 0.8s ease;
     box-shadow:         -1px 3px 2px 0px rgba(0,0,0,0.50); */
     border: 1.5px solid black;
 }
+
+
+
+body { color:#222; background:#fafafa; font:13px/1.4 'segoe ui', sans-serif; }
+h1, h2 { margin:0 0 .5em; font:700 2em/1 'myriad pro', sans-serif; } h2 { color:#999; font-size:1.4em; }
+p { margin:0 0 1em; } footer { color:#999; margin:3em 0 0; text-align:center; } footer a { color:#777; }
+#wrap { margin:1em auto; padding:1.5em; background:#fff; width:500px; box-shadow:0 1em 2em rgba(0,0,0,.15); }
+
+
+a:hover { color:red; background:yellow; }
+
+
+
+
