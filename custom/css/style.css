@@ -369,7 +369,7 @@ transition: all 0.8s ease;
 
 /* Quize style */
 .quiz {
-    background: #0F5181;
+    background: rgb(245, 245, 255);
     border-style: none;
     padding-left:10px;
     padding-right:10px;
