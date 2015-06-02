@@ -380,8 +380,8 @@ transition: all 0.8s ease;
     border: none;
 }
 
-quiz-answer {
-    padding-left: 10px;
+.quiz-answer {
+    margin-left: 10px;
 }
 
 .quiz-question-check {
