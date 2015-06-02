@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-<quiz name="Biology" correctLabel="correct"
+<quiz correctLabel="correct" incorrectLabel="incorrect!" checkLabel="check ansert">
     <question text="">
         <p>Виберіть тканину, яка відсутня в рослинному організмі:</p>
         <answer>Провідна</answer>
