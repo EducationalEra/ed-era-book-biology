@@ -369,7 +369,8 @@ transition: all 0.8s ease;
 
 /* Quize style */
 .quiz {
-    border-left: 1.5px solid rgb(99,131,168);
+    /*border-left: 1.5px solid rgb(99,131,168);*/
+    border-left-style: none;
     padding-left:10px;
     padding-right:10px;
 }
@@ -377,11 +378,11 @@ transition: all 0.8s ease;
 .quiz-question-text {
     font-weight: 500;
     color: #3C3C3C;
-    margin-bottom: 8px;
+    border-bottom:1px solid #E7EAED;
 }
 
 .quiz-question {
-    border: none;
+    border: none;bor
 }
 
 .quiz-answer {
@@ -446,7 +447,7 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-explanation {
-  font-size:1.6rem;
+  font-size: 1.6rem;
   border-radius: 5px;
   border: 1.5px solid rgb(99,131,168);
   background-color: #FAFAFA;
