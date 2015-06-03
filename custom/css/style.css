@@ -475,7 +475,7 @@ transition: all 0.8s ease;
 }
 
 .quiz-question-check:hover {
-    background-color: rgba(0,80,140,.9);
+    background-image: -webkit-linear-gradient(#E1E0E0,#CFC6C6);
 }
 
 .check-label, .show-label  {
