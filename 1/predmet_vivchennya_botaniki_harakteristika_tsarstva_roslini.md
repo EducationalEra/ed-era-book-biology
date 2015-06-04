@@ -47,6 +47,9 @@
 </div>
 -->
 
+[Link to part2](./part2.md)
+
+
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
     <question text="">
         <p>Вірним є твердження:</p>
