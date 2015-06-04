@@ -442,12 +442,13 @@ transition: all 0.8s ease;
 }
 
 .book.color-theme-2 .quiz-question-check {
-    background-image: -webkit-linear-gradient(#656776,#2c3043);
-    background-image: linear-gradient(#656776,#1c1f2b);
+    background-image: -webkit-linear-gradient(#656776,#656776);
+    background-image: linear-gradient(#656776,#656776);
     border: 1px solid #1c1f2b;
     box-shadow: none;
     color: #bdcadb;
     background-color: none;
+    text-shadow: none;
 }
 
 .btn show-label quiz-question-check:hover {
