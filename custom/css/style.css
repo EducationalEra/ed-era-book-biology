@@ -435,7 +435,7 @@ transition: all 0.8s ease;
     background-image: -webkit-linear-gradient(#7F562C,#704214);
     background-image: linear-gradient(#7F562C,#704214);
     border: 1px solid #704214;
-    box-shadow: inset 0 1px 0 0 #fff;
+    box-shadow: none;
     color: #F3EACB;
     background-color: #F3EACB;
 }
