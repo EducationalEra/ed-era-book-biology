@@ -47,7 +47,7 @@
 </div>
 -->
 
-[Link to part2](./part2.md)
+[Link to part2](./predmet_vivchennya_biologi_osnovni_oznaki_zhivo_materi_oznachennya.md)
 
 
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
