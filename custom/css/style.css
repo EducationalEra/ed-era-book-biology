@@ -386,7 +386,7 @@ transition: all 0.8s ease;
     color: #bdcadb;
 }
 
-.btn show-label quiz-question-check {
+.button-check, .button-explain, .button-show-answer {
   /* анимация кнопки*/
     background-image: -webkit-linear-gradient(#eee,#d6cece);
     background-image: linear-gradient(#eee,#d6cece);
