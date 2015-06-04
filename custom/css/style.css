@@ -464,7 +464,6 @@ transition: all 0.8s ease;
 .book.color-theme-2 .quiz-question-check:hover  {
     background-image: -webkit-linear-gradient(#2c3043,#2c3043);
     background-image: linear-gradient(#2c3043,#2c3043);
-    color: #656776;
     border: 1px solid #656776;
 }
 
