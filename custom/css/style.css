@@ -376,6 +376,17 @@ transition: all 0.8s ease;
     margin-left: 20px;
     color: #3c3c3c;
     font-weight:400;
+    
+}
+
+input[type="radio" i], input[type="checkbox" i] {
+    background-color: #F3EACB;
+    border: #704214;
+}
+
+.book.color-theme-2 .quiz-answer input {
+    background-color: #bdcadb;
+    border: #D6DEE9;
 }
 
 .book.color-theme-1 .quiz-answer {
