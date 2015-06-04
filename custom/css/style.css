@@ -438,7 +438,7 @@ transition: all 0.8s ease;
     background-color: #eee;
 }
 
-.quiz-question-check:hover {
+.btn show-label quiz-question-check:hover {
     background-image: -webkit-linear-gradient(#E1E0E0,#CFC6C6);
     background-image: linear-gradient(#E1E0E0,#CFC6C6);
 }
