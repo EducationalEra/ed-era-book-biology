@@ -403,6 +403,7 @@ transition: all 0.8s ease;
     font-weight: bold;
     background-color: #eee;
     padding: 7px 18px;
+    
     text-decoration: none;
     text-shadow: 0 1px 0 #f8f8f8;
     background-clip: padding-box;
