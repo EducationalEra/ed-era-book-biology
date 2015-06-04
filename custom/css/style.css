@@ -446,7 +446,7 @@ transition: all 0.8s ease;
     border: 1px solid #1c1f2b;
     box-shadow: none;
     color: #bdcadb;
-    background-color: #eee;
+    background-color: none;
 }
 
 .btn show-label quiz-question-check:hover {
