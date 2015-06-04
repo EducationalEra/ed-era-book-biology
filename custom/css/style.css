@@ -379,12 +379,14 @@ transition: all 0.8s ease;
     
 }
 
-input[type="radio" i], input[type="checkbox" i] {
+.book.color-theme-1 input[type="radio" i], input[type="checkbox" i] {
     background-color: #F3EACB;
     border: #704214;
 }
 
-.book.color-theme-2 .quiz-answer input {
+
+
+.book.color-theme-2 input[type="radio" i], input[type="checkbox" i] {
     background-color: #bdcadb;
     border: #D6DEE9;
 }
