@@ -384,8 +384,6 @@ transition: all 0.8s ease;
     border: #704214;
 }
 
-
-
 .book.color-theme-2 input[type="radio" i], input[type="checkbox" i] {
     background-color: #bdcadb;
     border: #D6DEE9;
