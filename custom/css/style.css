@@ -402,8 +402,6 @@ transition: all 0.8s ease;
     font-size: inherit;
     font-weight: bold;
     background-color: #eee;
-    padding: 7px 18px;
-    
     text-decoration: none;
     text-shadow: 0 1px 0 #f8f8f8;
     background-clip: padding-box;
@@ -420,6 +418,11 @@ transition: all 0.8s ease;
     text-shadow: 0 1px 0 #f9f8f8;
     background-clip: padding-box;
 }
+
+.btn show-label quiz-question-check {
+    margin:7px 10px;
+}
+
 
 .book.color-theme-1 .quiz-question-check {
     background-image: -webkit-linear-gradient(#7F562C,#704214);
