@@ -161,10 +161,6 @@ $('#googleplus').sharrre({
 
 
 
-
-
-<img src="http://metroui.org.ua/images/css-logo.png">
-
 <div class="popup" style="background-image: url('http://metroui.org.ua/images/css-logo.png');">
   <div id="youtube-logo">
   </div>
