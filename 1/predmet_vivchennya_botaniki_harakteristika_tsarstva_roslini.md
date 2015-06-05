@@ -48,8 +48,6 @@
 -->
 
 
-
-
 <quiz correctLabel="correct!" incorrectLabel="incorrect!" checkLabel="check ansert">
     <question text="">
         <p>Вірним є твердження:</p>
