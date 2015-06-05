@@ -533,7 +533,7 @@ div.buttons span {
 }
 
 .popup:hover #youtube-logo {
-      background-image: url('../youtube-red.png');
+      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-red.png');
 }
 
 @media only screen and (min-width:320px){
