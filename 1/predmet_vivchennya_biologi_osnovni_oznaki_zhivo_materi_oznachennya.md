@@ -144,7 +144,7 @@
 
 -   Наземно-повітряне
 
--   Організми, як середовище життя
+-   Організми як середовище життя
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
