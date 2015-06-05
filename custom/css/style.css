@@ -497,6 +497,11 @@ transition: all 0.8s ease;
   margin-bottom: 18px;
 }
 
+.buttons span { 
+    border-style: none;
+}
+
+
 .book.color-theme-1 .explanation {
   color: #704214;
 }
