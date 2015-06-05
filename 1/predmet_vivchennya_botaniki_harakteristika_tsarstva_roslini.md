@@ -1,6 +1,13 @@
 Предмет вивчення ботаніки. Характеристика царства Рослини.
 ==========================================================
 
+
+<div class="popup" style="background-image: url('http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg');">
+  <div id="youtube-logo">
+  </div>
+</div>
+
+
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
