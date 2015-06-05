@@ -522,7 +522,7 @@ div.buttons span {
 }
 
 #youtube-logo {
-      background-image: url('../youtube-dark.png');
+      background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/youtube-dark.png');
       height: 45px;
       width: 64px;
       position: absolute;
