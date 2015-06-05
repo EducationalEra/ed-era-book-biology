@@ -522,7 +522,7 @@ div.buttons span {
 }
 
 #youtube-logo {
-      background-image: url('youtube-dark.png');
+      background-image: url('../youtube-dark.png');
       height: 45px;
       width: 64px;
       position: absolute;
@@ -533,7 +533,7 @@ div.buttons span {
 }
 
 .popup:hover #youtube-logo {
-      background-image: url('youtube-red.png');
+      background-image: url('../youtube-red.png');
 }
 
 @media only screen and (min-width:320px){
