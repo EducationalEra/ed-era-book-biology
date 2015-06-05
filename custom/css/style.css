@@ -497,7 +497,7 @@ transition: all 0.8s ease;
   margin-bottom: 18px;
 }
 
-.buttons span { 
+div.buttons span { 
     border-style: none;
 }
 
