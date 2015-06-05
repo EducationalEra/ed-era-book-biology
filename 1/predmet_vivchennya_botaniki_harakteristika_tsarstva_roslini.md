@@ -1,8 +1,9 @@
 Предмет вивчення ботаніки. Характеристика царства Рослини.
 ==========================================================
 
+<img src="http://metroui.org.ua/images/css-logo.png">
 
-<div class="popup" style="background-image: url('http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg');">
+<div class="popup" style="background-image: url('http://metroui.org.ua/images/css-logo.png');">
   <div id="youtube-logo">
   </div>
 </div>
