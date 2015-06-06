@@ -132,7 +132,7 @@
 
 <div>
 {% modalYoutube %}https://www.youtube.com/embed/q4H2Yvk8-98|
-<div class="popup" style="background-image: url('http://metroui.org.ua/images/css-logo.png');">
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/1/bio1.jpg');">
   <div id="youtube-logo">
   </div>
 </div>
