@@ -155,7 +155,7 @@
         <answer>тварини</answer>
     </question>
     <question text="">
-        <p>Ріст - це:</p>
+        <p>Ріст – це:</p>
         <answer>якісні зміни організму</answer>
         <answer correct>кількісні зміни організму</answer>
     </question>
