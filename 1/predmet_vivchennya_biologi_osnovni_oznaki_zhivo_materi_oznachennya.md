@@ -1,5 +1,5 @@
 # Вступ до бiологiї та ботанiки
-# Предмет вивчення бiологiї. Основнi ознаки живої матерiї.
+# Предмет вивчення бiологiї. Основнi ознаки живої матерiї
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
@@ -132,7 +132,16 @@
 
 {% modalYoutube %}https://www.youtube.com/embed/q4H2Yvk8-98|
 <img class="shake" src="../Oval 1.png" width="100"/>
+|<a href=""><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+
+<div>
+{% modalYoutube %}https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830
+<div class="popup" style="background-image: url('http://metroui.org.ua/images/css-logo.png');">
+  <div id="youtube-logo">
+  </div>
+</div>
 |<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+</div>
 
 
 
