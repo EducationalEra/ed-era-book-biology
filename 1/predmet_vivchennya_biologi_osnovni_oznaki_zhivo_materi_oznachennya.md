@@ -139,11 +139,6 @@
 |<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about?_ga=1.41955744.469818367.1423866830"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
 </div>
 
-
-
-
-
-
 Розрізняють такі **середовища iснування органiзмiв**:
 
 -   Водне
