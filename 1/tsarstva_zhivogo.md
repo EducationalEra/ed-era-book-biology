@@ -18,7 +18,7 @@
 
 <div>
 {% modalYoutube %}https://www.youtube.com/embed/ir4phST2pMs|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/1/bio1.jpg');">
+<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/1/carstvo.png');">
   <div id="youtube-logo">
   </div>
 </div>
