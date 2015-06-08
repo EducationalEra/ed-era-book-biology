@@ -150,7 +150,7 @@
 -   Організми як середовище життя
 
 
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
         <p>Усі живі істоти ОКРІМ яких побудовані із клітин?</p>
         <answer>рослини</answer>
