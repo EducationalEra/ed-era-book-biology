@@ -16,16 +16,11 @@
 у вигляді великої молекули ДНК, яку називають нуклеоїдом. До Прокаріотів належить царство Бактерії.
 
 
-<div>
-{% modalYoutube %}https://www.youtube.com/embed/ir4phST2pMs|
-<div class="popup" style="background-image: url('https://cdn.rawgit.com/chudaol/ed-era-book-biology/master/1/carstvo.png');">
-  <div id="youtube-logo">
-  </div>
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/ir4phST2pMs" frameborder="0" allowfullscreen></iframe>
 </div>
-|<a href="https://study.ed-era.com/courses/EdEra/B101/03.11.2014/about"><button class="but">Переглянути курс!</button></a>{% endmodalYoutube %}
+<div class="popup">
 </div>
-
-
 
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
