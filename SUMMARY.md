@@ -17,7 +17,7 @@
        * [Зони кореня](3/zoni_korenya.md)
        * [Внутрiшня будова кореня у всиснiй зонi](3/vnutrishnya_budova_korenya_u_vsisnii_zoni.md)
        * [Видозмiни кореня](3/vidozmini_korenya.md)
-   * Добрива
+   * [Добрива](3/dobriva.md)
    * Пагiн: загальна характеристика
        * Рiст пагона
        * Галуження пагона
