@@ -15,7 +15,7 @@
    * [Корiнь](3/korin.md)
        * [Кореневi системи](3/korenevi_sistemi.md)
        * [Зони кореня](3/zoni_korenya.md)
-       * Внутрiшня будова кореня у всиснiй зонi
+       * [Внутрiшня будова кореня у всиснiй зонi](3/vnutrishnya_budova_korenya_u_vsisnii_zoni.md)
        * Видозмiни кореня
    * Добрива
    * Пагiн: загальна характеристика
