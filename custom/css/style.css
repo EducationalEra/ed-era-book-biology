@@ -245,6 +245,7 @@ default – "White"
 /*---------------png,svg image----------------------*/
 .image {
     background: #FAFAFA;
+    margin: 0 auto;
 }
 
 .book.color-theme-1 .image {
