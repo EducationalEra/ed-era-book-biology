@@ -7,6 +7,8 @@
 </div>
 </div>
 
+<img class="image" src="organy.png" alt="Органи рослин"/>
+
 <div class="ebio-wrap">
 <span class="ebio">Вегетативнi органи</span>
 <div class="ebio-text">
