@@ -7,7 +7,7 @@
 </div>
 </div>
 
-<img align="middle" src="organy.png" alt="Органи рослин"/>
+<img src="organy.png" alt="Органи рослин"/>
 
 <div class="ebio-wrap">
 <span class="ebio">Вегетативнi органи</span>
