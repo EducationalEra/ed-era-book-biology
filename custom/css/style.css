@@ -286,9 +286,19 @@ transform:scale(1.3);
 transition: all 0.8s ease;
 }
 
-span .blue {
-    color: blue;
+.p1 {
+ font-weight: bold;
+ color: #0F5180;
+}
+
+.book.color-theme-1 .p1{
     font-weight: bold;
+    color: RGB(112,66,20);
+}
+
+.book.color-theme-2 .p1{
+    font-weight: bold;
+    color: RGB(182,194,210);
 }
 
 /*video + description */
