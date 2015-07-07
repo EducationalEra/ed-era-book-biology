@@ -96,7 +96,7 @@ default – "White"
 }
 
 /*Наприклад*/
-.task {
+.exmpl {
     background: #faaf00;
     border: 0.15em solid #faaf00;
     color:white;
@@ -105,7 +105,7 @@ default – "White"
     padding-right:10px;
     margin-bottom:5px;
 }
-.task-text {
+.exmpl-text {
     width:100%;
     background: #fff;
     border: .15em solid #faaf00;
@@ -113,26 +113,26 @@ default – "White"
     padding-right:10px;
 }
 
-.book.color-theme-1 .task-wrap{
+.book.color-theme-1 .exmpl-wrap{
     margin-bottom:1em;
 }
-.book.color-theme-1 .task {
+.book.color-theme-1 .exmpl {
     background: #704214;
     border: 0.15em solid #704214;
     color:#F3EACB;
 }
-.book.color-theme-1 .task-text {
+.book.color-theme-1 .exmpl-text {
     width:100%;
     background: #F3EACB;
     border: .15em solid #704214;
 }
 
-.book.color-theme-2 .task {
+.book.color-theme-2 .exmpl {
     background: #2c3043;
     border: 0.15em solid #2c3043;
     color:#bdcadb;
 }
-.book.color-theme-2 .task-text {
+.book.color-theme-2 .exmpl-text {
     width:100%;
     background: #1c1f2b;
     border: .15em solid #2c3043;
