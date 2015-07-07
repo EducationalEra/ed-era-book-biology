@@ -4,7 +4,7 @@
 ![Таблиця видозміни кореня](tabl1.png)
 
 
-| Коренеплід | Виконує запасаючу функцiю та формується внаслiдок потовщення головного кореня. | **морква, буряк, петрушка** | <img src="http://www.planwallpaper.com/static/images/images-7_kACPBns.jpg" alt="Mountain View" style="width:304px;height:228px;"> |
+| Коренеплід | Виконує запасаючу функцiю та формується внаслiдок потовщення головного кореня. | **морква, буряк, петрушка** | <img src="http://www.planwallpaper.com/static/images/images-7_kACPBns.jpg" alt="Mountain View" width="128" height="128"> |
 | -- | -- | -- | -- |
 | 0:2 | 1:2 | 2:2 | 3:2 |
 | 0:3 | 1:3 | 2:3 | 3:3 |
