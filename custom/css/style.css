@@ -305,11 +305,6 @@ default – "White"
     border-left:0.3em solid #FAFAFA;
 }
 
-.vspace {
-    margin-bottom:20px;
-}
-
-
 /*Для таблицы*/
 .centered {
     text-align: center;
