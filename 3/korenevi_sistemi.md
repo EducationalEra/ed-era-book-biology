@@ -13,6 +13,13 @@
 | -- | -- |
 | Головний корiнь значно **вирiзняється** за товщиною та довжиною серед iнших коренiв. Така коренева система властива дводольним рослинам. | Головний корiнь **не вирiзняється** серед бiчних або вiдмирає. Така коренева система властива однодольним рослинам. |
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/emot9BAKfso" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
