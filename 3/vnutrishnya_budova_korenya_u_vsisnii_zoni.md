@@ -21,9 +21,6 @@
         <answer>транспорт органічних речовин вниз</answer>
         <answer>утворення бічних коренів</answer>
     </question>
-</quiz>
-
-<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>3</p>
         <answer>транспорт води з мінеральними речовинами вгору</answer>
@@ -31,7 +28,6 @@
         <answer>транспорт органічних речовин вниз</answer>
         <answer correct>утворення бічних коренів</answer>
     </question>
-</quiz>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
