@@ -10,7 +10,7 @@
 
 <p>Завдяки якій структурі вода та мінеральні речовини, розчинені в ній, потрапляють у корінь?</p>
 <div class='center'>
-<img src="root2.png" alt="Внутрішня будова кореня"/>
+<img src="root2.png" alt="Внутрішня будова кореня" width="200"/>
 </div><br/>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
