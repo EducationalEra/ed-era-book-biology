@@ -1,6 +1,12 @@
 
 # Добрива
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/5Itzn5U2z4g" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 Добрива сприяють кращому мiнеральному живленню рослин та запобiгають виснаженню ґрунту.
 
 ![Добрива](dobryva1.png)
