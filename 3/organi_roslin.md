@@ -23,3 +23,9 @@
 До них вiдносяться квiтка, насiнина та плiд. Цi органи виконують функцiї розмноження, формування, захисту, розвитку та розповсюдження зачаткiв.
 </div>
 </div>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Foj6jIDb5Ho" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
