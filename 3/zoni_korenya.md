@@ -15,6 +15,11 @@
 
 **V. Провiдна зона** (зона бiчних коренiв) – найдовша зона кореня. На цiй дiлянцi з’являються бiчнi коренi, якi закрiплюють рослину в грунтi. Також у провiднiй зонi з’являються транспортна та механiчна тканини.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/RhmzWMf0TDQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
