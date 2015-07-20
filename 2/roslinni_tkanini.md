@@ -13,6 +13,7 @@
 
 <div class="space">
 </div>
+
 <div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
