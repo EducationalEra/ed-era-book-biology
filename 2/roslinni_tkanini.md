@@ -12,6 +12,8 @@
 Вiдповiдно до будови, рослини подiляють на вищi та нижчi.
 
 <div class="space">
+</div>
+<div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
