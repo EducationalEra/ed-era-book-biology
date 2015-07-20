@@ -18,13 +18,16 @@
 </div>
 <div class="popup">
 </div>
-
+<div class="space">
+</div>
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Цитоплазма</b> — це внутрiшнє середовище клiтини.
 </div>
+</div>
+<div class="space">
 </div>
 
 Цитоплазма постiйно рухається. Цей рух називається циклозом.
