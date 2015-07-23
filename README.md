@@ -10,7 +10,7 @@
 * [Клiтина та тканини рослин](2/roslinna_klitina.md)
    * [Рослинна клiтина](2/roslinna_klitina.md)
    * [Рослиннi тканини](2/roslinni_tkanini.md)
-* Вегетативнi органи рослин
+* [Вегетативнi органи рослин](3/organi_roslin.md)
    * [Органи рослин](3/organi_roslin.md)
    * [Корiнь](3/korin.md)
        * [Кореневi системи](3/korenevi_sistemi.md)
