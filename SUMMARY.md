@@ -21,7 +21,7 @@
    * [Пагiн: загальна характеристика](3/pagin_zagalna_harakteristika.md)
        * [Рiст та галуження пагона](3/rist_pagona.md)
    * [Пагiн: брунька](3/pagin_brunka.md)
-       * Розвиток пагона з бруньки
+       * [Розвиток пагона з бруньки](rozvitok_pagona_z_brunki.md)
    * [Пагiн: стебло](3/pagin_steblo.md)
        * Транспорт речовин
    * Видозмiни
