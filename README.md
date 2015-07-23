@@ -1,24 +1,23 @@
 # Зміст
 
-1. [Зміст](README.md)
-2. [Вступне слово](vstup.md)
+* [Зміст](README.md)
+* [Вступне слово](vstup.md)
 * [Вступ до бiологiї та ботанiки](1/predmet_vivchennya_biologi_osnovni_oznaki_zhivo_materi_oznachennya.md)
-   1. [Предмет вивчення бiологiї. Основнi ознаки живої матерiї.](1/predmet_vivchennya_biologi_osnovni_oznaki_zhivo_materi_oznachennya.md)
-   * [Царства живого.](1/tsarstva_zhivogo.md)
-   * [Бiологiчнi науки.](1/biologichni_nauki.md)
-   * [Предмет вивчення ботанiки. Характеристика царства Рослини.](1/predmet_vivchennya_botaniki_harakteristika_tsarstva_roslini.md)
+   * [Предмет вивчення бiологiї. Основнi ознаки живої матерiї](1/predmet_vivchennya_biologi_osnovni_oznaki_zhivo_materi_oznachennya.md)
+   * [Царства живого](1/tsarstva_zhivogo.md)
+   * [Бiологiчнi науки](1/biologichni_nauki.md)
+   * [Предмет вивчення ботанiки. Характеристика царства Рослини](1/predmet_vivchennya_botaniki_harakteristika_tsarstva_roslini.md)
 * [Клiтина та тканини рослин](2/roslinna_klitina.md)
-   1. [Рослинна клiтина](2/roslinna_klitina.md)
+   * [Рослинна клiтина](2/roslinna_klitina.md)
    * [Рослиннi тканини](2/roslinni_tkanini.md)
 * Вегетативнi органи рослин
-   1. Органи рослин
-   * Корiнь
-       1. Кореневi системи
-       * Зони кореня
-       * Внутрiшня будова кореня у всиснiй зонi
-       * Видозмiни кореня
-   * Добрива
-   * Пагiн: загальна характеристика
+   * [Органи рослин](3/organi_roslin.md)
+   * [Корiнь](3/korin.md)
+       * [Кореневi системи](3/korenevi_sistemi.md)
+       * [Зони кореня](3/zoni_korenya.md)
+       * [Внутрiшня будова кореня у всиснiй зонi](3/vnutrishnya_budova_korenya_u_vsisnii_zoni.md)
+       * [Видозмiни кореня](3/vidozmini_korenya.md)
+   * [Добрива](3/dobriva.md)   * Пагiн: загальна характеристика
        1. Рiст пагона
        * Галуження пагона
    * Пагiн: брунька
