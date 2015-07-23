@@ -18,7 +18,7 @@
        * [Внутрiшня будова кореня у всиснiй зонi](3/vnutrishnya_budova_korenya_u_vsisnii_zoni.md)
        * [Видозмiни кореня](3/vidozmini_korenya.md)
    * [Добрива](3/dobriva.md)
-   * Пагiн: загальна характеристика
+   * [Пагiн: загальна характеристика](3/pagin_zagalna_harakteristika.md)
        * Рiст пагона
        * Галуження пагона
    * Пагiн: брунька
