@@ -1,7 +1,7 @@
 
 # Корiнь
 <div class="eoz-wrap">
-<span class="eoz">￼Означення</span>
+<span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Корiнь</b> — це пiдземний вегетативний орган рослин, якому властивi галуження та необмежений рiст.
 </div>
