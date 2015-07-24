@@ -33,7 +33,7 @@
        * [Жилкування](3/zhilkuvannya.md)
        * [Листкорозмiщення](3/listkorozmischennya.md)
        * [Внутрiшня будова листка](3/vnutrishnya_budova_listka.md)
-       * Явище листопаду
+       * [Явище листопаду](3/yavische_listopadu.md)
        * Видозмiни листка
    * Процеси життєдiяльностi рослин
        * Транспiрацiя
