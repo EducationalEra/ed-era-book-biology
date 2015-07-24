@@ -32,7 +32,7 @@
        * [Класифiкацiя листкiв](3/klasifikatsiya_listkiv.md)
        * [Жилкування](3/zhilkuvannya.md)
        * [Листкорозмiщення](3/listkorozmischennya.md)
-       * Внутрiшня будова листка
+       * [Внутрiшня будова листка](3/vnutrishnya_budova_listka.md)
        * Явище листопаду
        * Видозмiни листка
    * Процеси життєдiяльностi рослин
