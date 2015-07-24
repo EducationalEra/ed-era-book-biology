@@ -1,4 +1,4 @@
-# Пагин: брунька
+# Пагін: брунька
 
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
