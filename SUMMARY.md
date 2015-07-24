@@ -28,7 +28,7 @@
        * [Надземнi видозмiни](3/nadzemni_vidozmini.md)
        * [Пiдземнi видозмiни](3/pidzemni_vidozmini.md)
    * Пагiн: листок
-       * Зовнiшня будова листка
+       * [Зовнiшня будова листка](3/zovnishnya_budova_listka.md)
        * Класифiкацiя листкiв
        * Жилкування
        * Листкорозмiщення
