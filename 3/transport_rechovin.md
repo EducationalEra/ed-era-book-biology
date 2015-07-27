@@ -10,3 +10,24 @@
 <div align="center">
 <img src="techii.png" alt="Течії"/>
 </div>
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/wo1bhTwvLV0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question multiple>
+        <p>Виберiть ознаки судин рослин:</p>
+        <answer>живi клiтини;</answer>
+        <answer correct>мертвi клiтини;</answer>
+        <answer correct>входять до складу ксилеми;</answer>
+        <answer>входять до складу флоеми;</answer>
+        <answer>забезпечують низхiдний потiк речовини;</answer>
+        <answer correct>забезпечують висхiдний потiк речовини;</answer>
+    <explanation>
+    По ситоподiбних трубках флоеми, утворених живими клiтинами, органiчнi речовини транспортуються вниз, а по судинах ксилеми, утворених мертвими клiтинами, мiнеральнi солi та вода транспортуються вгору.
+    </explanation>
+    </question>
+</quiz>
