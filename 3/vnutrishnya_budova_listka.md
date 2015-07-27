@@ -11,3 +11,21 @@
 **№3** У листку наявна жилка. Волокна знаходяться внизу жилки та виконують опорну функцiю. Над ними знаходяться ситоподiбнi трубки, а над ситоподiбними трубками – судини.
 
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Gcp1M6q-Xv0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+<quiz>
+<question text="">
+    <p>Фотосинтез найактивніше відбувається у:</p>
+    <answer correct>стовпчастій паренхімі</answer>
+    <answer>продихах</answer>
+    <answer>ксилемі</answer>
+    <answer>паренхімі</answer>
+    <explanation>
+    Фотосинтез відбувається у стовпчастій та губчастій паренхімі, однак найактивніше цей процес протікає саме у стовпчастій основній тканині.
+    </explanation>
+</question>
+</quiz>
