@@ -21,3 +21,21 @@
 | Парноперистоскладний |Горох, жовта акацiя | <img src="3.jpg" width="200"/> |
 | Непарноперистоскладний | Троянда, бiла акацiя | <img src="4.jpg" width="200"/> |
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/HPTWTbMXcIM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+<quiz>
+<question text="">
+    <p>В гіркокаштану листки:</p>
+    <answer>прості</answer>
+    <answer>трійчасті</answer>
+    <answer correct>пальчасті</answer>
+    <answer>перистоскладні</answer>
+</question>
+</quiz>
+   
+
