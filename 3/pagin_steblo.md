@@ -27,3 +27,23 @@
 * За камбiєм розташована <span class="p1">деревина</span> (ксилема; – 7). Деревина складається з рiчних кiлець. Деревина (ксилема) товща за кору, тому що пiд час дiлення камбiю (який не функцiонує тiльки взимку) бiльше клiтин вiдкладається всередину стебла, тобто формується нове <span class="p1">рiчне кiльце</span> – 8. Ксилема побудована з механiчних та провiдних тканин (у нiй наявнi <span class="p1">судини</span> – 9, по яких вода та мiнеральнi речовини транспортуються вiд кореня вгору).
 * Глибше за деревину розташована <span class="p1">серцевина</span> – 10. У нiй зазвичай вiдкладаються поживнi речовини.
 * Стебло пронизане горизонтальними <span class="p1">серцевинними променями</span> – 11, якi забезпечують транспорт речовин у горизонтальному напрямку.
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/XRaYYU2-qzM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div> 
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>У 5-річній гілці яблуні:</p>
+        <answer>Одне річне кільце</answer>
+        <answer correct>5 річних кілець</answer>
+        <answer>10 річних кілець</answer>
+        <answer>25 річних кілець</answer>
+    <explanation>
+    Скільки років існує гілка, стільки в неї і річних кілець. Річні кільця формуються внаслідок щорічного функціонування камбію.
+    </explanation>
+    </question>
+</quiz>
+   
