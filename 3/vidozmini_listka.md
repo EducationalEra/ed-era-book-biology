@@ -8,3 +8,25 @@
 | Водозапасаючi листки | М’ясистi, значно потовщенi листки, у яких запасається вода | Очиток, алое | <img src="vid3.jpg" width="150"/> |
 | Покривнi луски | Виконують захисну функцiю | На бульбах, кореневищi, цибулинах – видозмiнах пагона |  <img src="vid4.jpg" width="150"/> |
 | Ловильнi апарати | Листок видiляє спецiальнi липкi секрети. Комахи прилипають та перетравлюються рослиною, забезпечуючи її азотистими сполуками. | Росичка | <img src="vid5.jpg" width="150"/> |
+
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/gXHszpQa_6s" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+<quiz>
+<question text="">
+    <p>Видозмінені листки – це:</p>
+    <answer>колючки глоду</answer>
+    <answer>вусики винограду</answer>
+    <answer correct>колючки кактусів</answer>
+    <answer>вуса суниці</answer>
+    <explanation>
+    Колючки глоду, вусики винограду, вуса суниці – видозміни пагонового походження, а колючки кактусів – видозміна саме листків.
+    </explanation>
+</question>
+</quiz>
+
+   
