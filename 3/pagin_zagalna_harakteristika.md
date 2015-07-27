@@ -69,3 +69,16 @@
 * Запасаюча;
 * Здiйснення фотосинтезу (листки та молодi зеленi стебла фотосинтезують);
 * Вегетативне розмноження.
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>Пагін складається з:</p>
+        <answer>кореня та стебла</answer>
+        <answer correct>стебла, бруньок і листків</answer>
+        <answer>стебла та бруньки</answer>
+        <answer>бруньки та квітки</answer>
+    <explanation> Пагін – це вегетативний орган, який включає в себе стебло, бруньки та листки. Корінь – це інший вегетативний орган, а квітка – це генеративний орган.
+    </explanation>
+    </question>
+</quiz>
+
