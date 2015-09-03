@@ -14,7 +14,7 @@
 </div>
 
 <p>Встановіть відповідність між номером структури на малюнку та її функцією.</p>
-<img class="image" src="root2.png" alt="Внутрішня будова кореня" width="200"/>
+<img class="image" src="root2.png" alt="Внутрішня будова кореня" width="300"/>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
