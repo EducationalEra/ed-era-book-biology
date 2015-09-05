@@ -29,3 +29,17 @@
 </div>
 <div class="popup">
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>Співвіднесіть функції органів рослин із загальною класифікацією:<br/>
+        Вегетативні органи</p>
+        <answer correct>фотосинтез, транспірація, дихання, транспорт речовин, механічна функція</answer>
+        <answer>розмноження, формування, захист і розповсюдження зачатків.</answer>
+    </question>
+    <question text="">
+        <p>Квітка, насінина, плід</p>
+        <answer>фотосинтез, транспірація, дихання, транспорт речовин, механічна функція</answer>
+        <answer correct>розмноження, формування, захист і розповсюдження зачатків.</answer>
+    </question>
+</quiz>
