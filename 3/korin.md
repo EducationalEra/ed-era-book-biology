@@ -22,3 +22,15 @@
 5. <span class="p1">Запасання</span> органiчних речовин.
 6. <span class="p1">Вегетативне розмноження</span>.
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
+    <question text="">
+        <p>До функцій кореня НЕ належать:</p>
+        <answer correct>фотосинтез</answer>
+        <answer>виділення продуктів життєдіяльності</answer>
+        <answer>вегетативне розмноження</answer>
+        <answer>синтез деяких речовин</answer>
+    <explanation>
+    З перелічених функцій корінь не здійснює лише фотосинтез.
+    </explanation>
+    </question>
+</quiz>
