@@ -13,19 +13,20 @@
 <div class="popup">
 </div>
 
-<p>Встановіть відповідність між номером структури на малюнку та її функцією.</p>
+
 <img class="image" src="root2.png" alt="Внутрішня будова кореня" width="300"/>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>1</p>
+        <p>Встановіть відповідність між номером структури на малюнку та її функцією.<br/>
+        Функція структури №1</p>
         <answer>транспорт води з мінеральними речовинами вгору</answer>
         <answer correct>всмоктування води з мінеральними речовинами</answer>
         <answer>транспорт органічних речовин вниз</answer>
         <answer>утворення бічних коренів</answer>
     </question>
     <question text="">
-        <p>3</p>
+        <p>Функція структури №3</p>
         <answer>транспорт води з мінеральними речовинами вгору</answer>
         <answer>всмоктування води з мінеральними речовинами</answer>
         <answer>транспорт органічних речовин вниз</answer>
@@ -34,7 +35,7 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>4</p>
+        <p>Функція структури №4</p>
         <answer correct>транспорт води з мінеральними речовинами вгору</answer>
         <answer>всмоктування води з мінеральними речовинами</answer>
         <answer>транспорт органічних речовин вниз</answer>
@@ -44,7 +45,7 @@
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
-        <p>6</p>
+        <p>Функція структури №6</p>
         <answer>транспорт води з мінеральними речовинами вгору</answer>
         <answer>всмоктування води з мінеральними речовинами</answer>
         <answer correct>транспорт органічних речовин вниз</answer>
