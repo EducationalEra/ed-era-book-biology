@@ -51,3 +51,36 @@
 
 Під час вивчення біології Ви зустрічатиметесь з усіма переліченими
 науками і таким чином їх буде легше запам’ятати.
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Наука, основним завданням якої є класифікація живих істот, це:</p>
+        <answer>морфологія</answer>
+        <answer>анатомія</answer>
+        <answer correct>систематика</answer>
+        <answer>мікологія</answer>
+        <explanation>
+        Морфологія та анатомія вивчають будову живих істот, а мікологія досліджує гриби.
+        </explanation>
+    </question>
+    <question text="">
+        <p>Предмет вивчення ліхенології – це:</p>
+        <answer>бактерії</answer>
+        <answer correct>лишайники</answer>
+        <answer>гриби</answer>
+        <answer>рослини</answer>
+        <explanation>
+        Бактерії – це предмет вивчення бактеріології (відділу мікробіології), гриби вивчає мікологія, а рослини – ботаніка.
+        </explanation>
+    </question>
+    <question text="">
+        <p>Надцарство Еукаріоти НЕ включає в себе:</p>
+        <answer>рослин</answer>
+        <answer correct>бактерій</answer>
+        <answer>тварин</answer>
+        <answer>грибів і лишайників</answer>
+        <explanation>
+        Бактерії належать до надцарства Прокаріоти.
+        </explanation>
+    </question>
+</quiz>
