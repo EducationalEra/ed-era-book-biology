@@ -30,6 +30,7 @@
 <div class="popup">
 </div>
 
+
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
         <p>Співвіднесіть функції органів рослин із загальною класифікацією:<br/>
@@ -38,7 +39,7 @@
         <answer>розмноження, формування, захист і розповсюдження зачатків.</answer>
     </question>
     <question text="">
-        <p>Квітка, насінина, плід</p>
+        <p>Репродуктивні органи</p>
         <answer>фотосинтез, транспірація, дихання, транспорт речовин, механічна функція</answer>
         <answer correct>розмноження, формування, захист і розповсюдження зачатків.</answer>
     </question>
