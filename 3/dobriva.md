@@ -18,3 +18,41 @@
 * **калiйні** – пiдвищують холодота посухостiйкiсть рослин, посилюють розвиток коренiв.
 
 
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>До мінеральних добрив належить:</p>
+        <answer>торф</answer>
+        <answer>пташиний послід</answer>
+        <answer>перегній</answer>
+        <answer correct>калійні добрива</answer>
+        <explanation>
+        Торф, пташиний послід і перегній належать до органічних добрив.
+        </explanation>
+    </question>
+    <question text="">
+        <p>Функція структури №3</p>
+        <answer>транспорт води з мінеральними речовинами вгору</answer>
+        <answer>всмоктування води з мінеральними речовинами</answer>
+        <answer>транспорт органічних речовин вниз</answer>
+        <answer correct>утворення бічних коренів</answer>
+    </question>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Функція структури №4</p>
+        <answer correct>транспорт води з мінеральними речовинами вгору</answer>
+        <answer>всмоктування води з мінеральними речовинами</answer>
+        <answer>транспорт органічних речовин вниз</answer>
+        <answer>утворення бічних коренів</answer>
+    </question>
+</quiz>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Функція структури №6</p>
+        <answer>транспорт води з мінеральними речовинами вгору</answer>
+        <answer>всмоктування води з мінеральними речовинами</answer>
+        <answer correct>транспорт органічних речовин вниз</answer>
+        <answer>утворення бічних коренів</answer>
+    </question>
+</quiz>
