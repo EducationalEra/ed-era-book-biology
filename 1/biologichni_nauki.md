@@ -73,14 +73,4 @@
         Бактерії – це предмет вивчення бактеріології (відділу мікробіології), гриби вивчає мікологія, а рослини – ботаніка.
         </explanation>
     </question>
-    <question text="">
-        <p>Надцарство Еукаріоти НЕ включає в себе:</p>
-        <answer>рослин</answer>
-        <answer correct>бактерій</answer>
-        <answer>тварин</answer>
-        <answer>грибів і лишайників</answer>
-        <explanation>
-        Бактерії належать до надцарства Прокаріоти.
-        </explanation>
-    </question>
 </quiz>
