@@ -30,7 +30,7 @@
        * [Внутрiшня будова листка](3/vnutrishnya_budova_listka.md)
        * [Явище листопаду](3/yavische_listopadu.md)
        * [Видозмiни листка](3/vidozmini_listka.md)
-   * Процеси життєдiяльностi рослин
+   * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
        * Транспiрацiя
        * Саморегуляцiя
    * Рухи рослин (повторення)
