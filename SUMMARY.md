@@ -23,7 +23,7 @@
        * [Транспорт речовин](3/transport_rechovin.md)
    * [Видозмiни](vidozmini.md)
        * [Надземнi видозмiни](nadzemni_vidozmini.md)
-       * Пiдземнi видозмiни
+       * [Пiдземнi видозмiни](pidzemni_vidozmini.md)
    * Пагiн: листок
        * Зовнiшня будова листка
        * Класифiкацiя листкiв
