@@ -25,7 +25,7 @@
    * [Пагiн: листок](3/pagin_listok.md)
        * [Зовнiшня будова листка](3/zovnishnya_budova_listka.md)
        * [Класифiкацiя листкiв](3/klasifikatsiya_listkiv.md)
-       * Жилкування
+       * [Жилкування](3/zhilkuvannya.md)
        * Листкорозмiщення
        * Внутрiшня будова листка
        * Явище листопаду
