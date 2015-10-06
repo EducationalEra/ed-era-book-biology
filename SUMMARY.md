@@ -23,7 +23,7 @@
    * [Видозмiни](3/nadzemni_vidozmini.md)
        * [Пiдземнi видозмiни](3/pidzemni_vidozmini.md)
    * [Пагiн: листок](3/pagin_listok.md)
-       * [Зовнiшня будова листка](zovnishnya_budova_listka.md)
+       * [Зовнiшня будова листка](3/zovnishnya_budova_listka.md)
        * Класифiкацiя листкiв
        * Жилкування
        * Листкорозмiщення
