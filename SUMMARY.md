@@ -16,7 +16,7 @@
        * [Видозмiни кореня](3/vidozmini_korenya.md)
    * [Добрива](3/dobriva.md)
    * [Пагiн: загальна характеристика](3/pagin_zagalna_harakteristika.md)
-       * Рiст та галуження пагона
+       * [Рiст та галуження пагона](3/rist_ta_galuzhennya_pagona.md)
    * Пагiн: брунька
        * Розвиток пагона з бруньки
    * Пагiн: стебло
