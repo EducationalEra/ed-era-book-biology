@@ -19,7 +19,7 @@
        * [Рiст та галуження пагона](3/rist_ta_galuzhennya_pagona.md)
    * [Пагiн: брунька](3/pagin_brunka.md)
        * [Розвиток пагона з бруньки](3/rozvitok_pagona_z_brunki.md)
-   * Пагiн: стебло
+   * [Пагiн: стебло](pagin_steblo.md)
        * [Транспорт речовин](3/transport_rechovin.md)
    * [Видозмiни](3/nadzemni_vidozmini.md)
        * [Пiдземнi видозмiни](3/pidzemni_vidozmini.md)
