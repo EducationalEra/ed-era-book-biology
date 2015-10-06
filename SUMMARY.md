@@ -17,7 +17,7 @@
    * [Добрива](3/dobriva.md)
    * [Пагiн: загальна характеристика](3/pagin_zagalna_harakteristika.md)
        * [Рiст та галуження пагона](3/rist_ta_galuzhennya_pagona.md)
-   * Пагiн: брунька
+   * [Пагiн: брунька](pagin_brunka.md)
        * Розвиток пагона з бруньки
    * Пагiн: стебло
        * Транспорт речовин
