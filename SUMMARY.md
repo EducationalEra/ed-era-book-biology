@@ -20,7 +20,7 @@
    * [Пагiн: брунька](3/pagin_brunka.md)
        * [Розвиток пагона з бруньки](3/rozvitok_pagona_z_brunki.md)
    * Пагiн: стебло
-       * [Транспорт речовин](transport_rechovin.md)
+       * [Транспорт речовин](3/transport_rechovin.md)
    * Видозмiни
        * Надземнi видозмiни
        * Пiдземнi видозмiни
