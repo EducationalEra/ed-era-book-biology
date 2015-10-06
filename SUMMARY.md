@@ -33,7 +33,7 @@
    * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
        * [Транспiрацiя](3/transpiratsiya.md)
        * [Саморегуляцiя](3/samoregulyatsiya.md)
-   * Рухи рослин (повторення)
+   * [Рухи рослин (повторення)](3/ruhi_roslin_povtorennya.md)
 * Репродуктивнi органи рослин
    * Квітка
        * Зовнішня будова квітки
