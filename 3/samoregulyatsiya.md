@@ -1,8 +1,8 @@
 # Саморегуляцiя
 
-<div class="...-wrap">
-<span class="...">Текст в шапке</span>
-<div class="...-text">
+<div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
 Фiтогормони — це хiмiчнi речовини, якi виробляються рослиною
 та регулюють її рiст i взаємоузгоджене регулювання процесiв життєдiяльностi.
 </div>
