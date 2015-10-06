@@ -22,7 +22,7 @@
    * Пагiн: стебло
        * [Транспорт речовин](3/transport_rechovin.md)
    * [Видозмiни](3/nadzemni_vidozmini.md)
-       * [Надземнi видозмiни](nadzemni_vidozmini.md)
+       * [Надземнi видозмiни](3/nadzemni_vidozmini.md)
        * [Пiдземнi видозмiни](pidzemni_vidozmini.md)
    * Пагiн: листок
        * Зовнiшня будова листка
