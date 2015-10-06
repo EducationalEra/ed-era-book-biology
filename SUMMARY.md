@@ -21,7 +21,7 @@
        * [Розвиток пагона з бруньки](3/rozvitok_pagona_z_brunki.md)
    * Пагiн: стебло
        * [Транспорт речовин](3/transport_rechovin.md)
-   * [Видозмiни](vidozmini.md)
+   * [Видозмiни](3/nadzemni_vidozmini.md)
        * [Надземнi видозмiни](nadzemni_vidozmini.md)
        * [Пiдземнi видозмiни](pidzemni_vidozmini.md)
    * Пагiн: листок
