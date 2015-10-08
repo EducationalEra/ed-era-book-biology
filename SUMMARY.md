@@ -31,7 +31,6 @@
        * [Явище листопаду](3/yavische_listopadu.md)
        * [Видозмiни листка](3/vidozmini_listka.md)
    * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
-       * [Саморегуляцiя](3/samoregulyatsiya.md)
    * [Рухи рослин (повторення)](3/ruhi_roslin_povtorennya.md)
 * Репродуктивнi органи рослин
    * Квітка
