@@ -40,7 +40,7 @@
 
 <div align="center">
 <img src="pic1.jpg">
-</img>
+</div>
 
 Квітка складається з <span class="p1">квітконіжки</span>, <span class="p1">квітколожа</span>,
 <span class="p1">оцвітини</span>, <span class="p1">тичинок</span> і <span class="p1">маточки</span>. Деякі із цих елементів
