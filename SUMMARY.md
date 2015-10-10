@@ -33,7 +33,6 @@
    * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
 * [Репродуктивнi органи рослин](4/reproduktivni_organi_roslin.md)
    * Квітка
-       * Класифiкацiя квiток
    * Суцвіття
        * Прості суцвіття
        * Складні суцвіття
