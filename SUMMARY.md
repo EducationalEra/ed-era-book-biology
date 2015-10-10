@@ -31,7 +31,7 @@
        * [Явище листопаду](3/yavische_listopadu.md)
        * [Видозмiни листка](3/vidozmini_listka.md)
    * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
-* Репродуктивнi органи рослин
+* [Репродуктивнi органи рослин](4/reproduktivni_organi_roslin.md)
    * Квітка
        * Зовнішня будова квітки
        * Класифікація квіток
