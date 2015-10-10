@@ -35,7 +35,7 @@
    * [Суцвіття](4/sutsvittya.md)
    * [Запилення та запліднення](4/zapilennya_ta_zapldnennya.md)
        * [Будова тичинки та пилкового зерна](4/budova_tichinki_ta_pilkovogo_zerna.md)
-       * Будова маточки та насінного зачатка
+       * [Будова маточки та насінного зачатка](4/budova_matochki_ta_nasnnogo_zachatka.md)
        * Механізм подвійного запліднення
    * Насінина
    * Плід
