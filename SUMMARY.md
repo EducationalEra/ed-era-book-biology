@@ -32,7 +32,7 @@
        * [Видозмiни листка](3/vidozmini_listka.md)
    * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
 * [Репродуктивнi органи рослин](4/reproduktivni_organi_roslin.md)
-   * Квітка
+   * [Квітка](4/kvtka.md)
    * Суцвіття
        * Прості суцвіття
        * Складні суцвіття
