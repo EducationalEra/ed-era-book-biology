@@ -93,13 +93,13 @@
 <td>Волоть</td>
 <td>Прості китиці</td>
 <td>Бузок, овес, виноград, рис, просо</td>
-<td><img src="pic2_skl"></td>
+<td><img src="pic2_skl.jpg"></td>
 </tr>
 <tr>
 <td>Складний зонтик</td>
 <td>Прості зонтики</td>
 <td>Петрушка, морква, кріп</td>
-<td><img src="pic8_skl"></td>
+<td><img src="pic8_skl.jpg"></td>
 </tr>
 <tr>
 <td>Складний щиток</td>
