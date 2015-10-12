@@ -32,6 +32,7 @@
        * [Видозмiни листка](3/vidozmini_listka.md)
    * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
 * [Репродуктивнi органи рослин](4/reproduktivni_organi_roslin.md)
+   * Зовнішня будова квітки
    * [Суцвіття](4/sutsvittya.md)
    * [Запилення та запліднення](4/zapilennya_ta_zapldnennya.md)
        * [Будова тичинки та пилкового зерна](4/budova_tichinki_ta_pilkovogo_zerna.md)
@@ -43,7 +44,6 @@
        * [Сухі плоди](4/suhi_plody.md)
        * [Способи поширення плодів і насіння](4/sposoby_poshirennya_plodiv.md)
    * [Вегетативне розмноження](4/vegetatyvne_rozmnozhennya.md)
-   * Зовнішня будова квітки
 * Різноманітність рослин. Водорості(нижчі) та вищі сопорові рослини
    * Систематика рослин
    * Водорості
