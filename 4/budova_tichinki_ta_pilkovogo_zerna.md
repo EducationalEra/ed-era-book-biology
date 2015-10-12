@@ -1,7 +1,7 @@
 Будова тичинки та пилкового зерна
 ---------------------------------
 
-<div align="center" width="420">
+<div align="center" width="300">
 <img src="1.jpeg">
 </div>
 
