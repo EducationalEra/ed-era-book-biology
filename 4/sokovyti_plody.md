@@ -1,7 +1,5 @@
 # Соковиті плоди
 
-<a href="#%E5%BF%83%E5%BE%97%E6%96%87%E7%AB%A0%E8%92%90%E9%8C%84%E3%80%8A%E5%85%B6%E4%BB%96%E3%80%8B" id="goTop"><i class="fa fa-arrow-up"></i></a>
-
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
