@@ -7,7 +7,6 @@
 </div>
 </div>
 
-
 <table>
 <thead>
 <tr>
