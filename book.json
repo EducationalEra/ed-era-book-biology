@@ -6,7 +6,8 @@
         "quiz",
         "gtm",
         "ga",
-        "disqus"
+        "disqus",
+        "anchor-navigation"
     ],
     "pluginsConfig": {
         "addcssjs": {
