@@ -17,28 +17,22 @@
        * [Внутрiшня будова кореня у всиснiй зонi](3/vnutrishnya_budova_korenya_u_vsisnii_zoni.md)
        * [Видозмiни кореня](3/vidozmini_korenya.md)
    * [Добрива](3/dobriva.md)   
-   * Пагiн: загальна характеристика
-       1. Рiст пагона
-       * Галуження пагона
-   * Пагiн: брунька
-       1. Розвиток пагона з бруньки
-   * Пагiн: стебло
-       1. Транспорт речовин
-   * Видозмiни
-       1. Надземнi видозмiни
-       * Пiдземнi видозмiни
-   * Пагiн: листок
-       1. Зовнiшня будова листка
-       * Класифiкацiя листкiв
-       * Жилкування
-       * Листкорозмiщення
-       * Внутрiшня будова листка
-       * Явище листопаду
-       * Видозмiни листка
-   * Процеси життєдiяльностi рослин
-       1. Транспiрацiя
-       * Саморегуляцiя
-   * Рухи рослин (повторення)
+   * [Пагiн: загальна характеристика](3/pagin_zagalna_harakteristika.md)
+       * [Рiст та галуження пагона](3/rist_ta_galuzhennya_pagona.md)
+   * [Пагiн: брунька](3/pagin_brunka.md)
+   * [Пагiн: стебло](3/pagin_steblo.md)
+       * [Транспорт речовин](3/transport_rechovin.md)
+   * [Видозмiни](3/nadzemni_vidozmini.md)
+       * [Пiдземнi видозмiни](3/pidzemni_vidozmini.md)
+   * [Пагiн: листок](3/pagin_listok.md)
+       * [Зовнiшня будова листка](3/zovnishnya_budova_listka.md)
+       * [Класифiкацiя листкiв](3/klasifikatsiya_listkiv.md)
+       * [Жилкування](3/zhilkuvannya.md)
+       * [Листкорозмiщення](3/listkorozmischennya.md)
+       * [Внутрiшня будова листка](3/vnutrishnya_budova_listka.md)
+       * [Явище листопаду](3/yavische_listopadu.md)
+       * [Видозмiни листка](3/vidozmini_listka.md)
+   * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
 * Репродуктивнi органи рослин
    1. Квітка
         1. Зовнішня будова квітки
