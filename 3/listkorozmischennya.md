@@ -41,8 +41,7 @@
     <answer>Бузок</answer>
 </question>
 <question>
-    <p>
-    Супротивне</p>
+    <p>Супротивне</p>
     <answer>Хвощ</answer>
     <answer>Яблуня</answer>
     <answer correct>Бузок</answer>
