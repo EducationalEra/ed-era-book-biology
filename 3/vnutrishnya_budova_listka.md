@@ -28,4 +28,14 @@
     Фотосинтез відбувається у стовпчастій та губчастій паренхімі, однак найактивніше цей процес протікає саме у стовпчастій основній тканині.
     </explanation>
 </question>
+<question>
+<img src="https://study.ed-era.com/c4x/EdEra/B101/asset/pyt.png" alt="Biology" style="width:470px"/>
+    <p>На рисунку зображено поперечний розрiз листка. Яка функцiя структури, позначеної буквою Х?</p>
+    <answer>газообмiн</answer>
+    <answer>транспiрацiя</answer>
+    <answer correct>транспорт речовин</answer>
+    <answer>фотосинтез</answer>
+    <explanation>
+    На малюнку позначено компонент жилки – судини, якi виконують транспортну функцiю.
+    </explanation>
 </quiz>
