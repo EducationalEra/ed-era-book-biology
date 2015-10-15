@@ -58,6 +58,46 @@
     Колючки глоду, вусики винограду, вуса суниці – видозміни пагонового походження, а колючки кактусів – видозміна саме листків.
     </explanation>
 </question>
+
+<question text="">
+    <p>Встановiть вiдповiднiсть мiж видозмiною листка та рослиною, для якої вона характерна:<br>
+    Колючки</p>
+    <answer>горох</answer>
+    <answer correct>кактус</answer>
+    <answer>росичка</answer>
+    <answer>виноград</answer>
+    <answer>алое</answer>
+</question>
+</quiz>
+
+<question text="">
+    <p>Ловильнi апарати</p>
+    <answer>горох</answer>
+    <answer>кактус</answer>
+    <answer correct>росичка</answer>
+    <answer>виноград</answer>
+    <answer>алое</answer>
+</question>
+</quiz>
+
+<question text="">
+    <p>Водозапасаючi листки</p>
+    <answer>горох</answer>
+    <answer>кактус</answer>
+    <answer>росичка</answer>
+    <answer>виноград</answer>
+    <answer correct>алое</answer>
+</question>
+</quiz>
+
+<question text="">
+    <p>Вусики</p>
+    <answer correct>горох</answer>
+    <answer>кактус</answer>
+    <answer>росичка</answer>
+    <answer>виноград</answer>
+    <answer>алое</answer>
+</question>
 </quiz>
 
    
