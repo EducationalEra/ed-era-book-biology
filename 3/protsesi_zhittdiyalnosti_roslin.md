@@ -72,19 +72,6 @@
     <p>Процеси квiтiння в рослин регулюють</p>
     <answer>ауксини</answer>
     <answer>алкалоїди</answer>
-    <answer correct>гiберелiни</answer>
-    <answer>цитокiнiни</answer>
-    <explanation>
-   Ауксини – стимуляцiя зав’язування плодiв;<br>
-   цитокiнiни – подовження перiоду зберiгання квiтiв, що були зрiзанi, затримання старiння рiзноманiтних зелених овочiв;<br>
-   алкалоїди – отруйнi речовини, якi утворюються в деяких рослин.
-    </explanation>
-</question>
-
-<question text="">
-    <p>Процеси квiтiння в рослин регулюють</p>
-    <answer>ауксини</answer>
-    <answer>алкалоїди</answer>
     <answer>цитокiнiни</answer>
     <answer correct>гiберелiни</answer>
     <explanation>
