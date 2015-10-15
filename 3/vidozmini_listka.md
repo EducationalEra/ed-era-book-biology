@@ -68,7 +68,6 @@
     <answer>виноград</answer>
     <answer>алое</answer>
 </question>
-</quiz>
 
 <question text="">
     <p>Ловильнi апарати</p>
@@ -78,7 +77,6 @@
     <answer>виноград</answer>
     <answer>алое</answer>
 </question>
-</quiz>
 
 <question text="">
     <p>Водозапасаючi листки</p>
@@ -88,7 +86,6 @@
     <answer>виноград</answer>
     <answer correct>алое</answer>
 </question>
-</quiz>
 
 <question text="">
     <p>Вусики</p>
