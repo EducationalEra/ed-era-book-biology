@@ -36,6 +36,11 @@
     <answer correct>пальчасті</answer>
     <answer>перистоскладні</answer>
 </question>
+<question>
+    <p>У конюшини листки:</p>
+    <answer correct>трійчасті</answer>
+    <answer>перистоскладні</answer>
+    <answer>пальчасті</answer>
+    <answer>прості</answer>
+</question>
 </quiz>
-   
-
