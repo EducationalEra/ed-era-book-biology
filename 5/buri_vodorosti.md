@@ -55,5 +55,6 @@
 
 <div align="center">
 <img src="12.jpg">
+<p>Автор: <span class="p1">Graça Gaspar</span></p>
 </div>
 
