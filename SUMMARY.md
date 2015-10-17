@@ -65,7 +65,7 @@
    * [Відділ Покритонасінні](6/viddil_pokrytonasinni.md)
    * [Клас Дводольні](6/klas_dvodolni.md)
    * [Клас Однодольні](6/klas_odnodolni.md)
-* Гриби та лишайники
+* [Гриби та лишайники](7/gribi.md)
    * [Гриби](7/gribi.md)
        * [Цвілеві гриби](7/tsvlev_gribi.md)
        * [Шапкові гриби](7/shapkov_gribi.md)
