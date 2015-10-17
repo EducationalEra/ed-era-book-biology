@@ -20,7 +20,7 @@
 ### Навiкула
 
 <div align="center">
-<img src="7.png">
+<img src="7.jpg">
 <p>Автор: <span class="p1">Minami Himemiya</span></p>
 </div>
 
