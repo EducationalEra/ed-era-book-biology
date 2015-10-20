@@ -59,7 +59,7 @@
 </question>
 <question>
 <p>Зародковий листок зернівки пшениці називається:</p>
-<answer>щиток</answer>
+<answer correct>щиток</answer>
 <answer>оплодень</answer>
 <answer>шкірка</answer>
 <answer>ендосперм</answer>
