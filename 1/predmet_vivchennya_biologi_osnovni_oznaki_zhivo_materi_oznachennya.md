@@ -1,11 +1,9 @@
 # Вступ до бiологiї та ботанiки
 # Предмет вивчення бiологiї. Основнi ознаки живої матерiї
-<div class="space">
 <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
 <b>Бiологiя</b> — сукупнiсть наук, якi вивчають живу природу.
-</div>
 </div>
 </div>
 
