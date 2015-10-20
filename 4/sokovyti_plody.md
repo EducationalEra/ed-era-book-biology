@@ -66,3 +66,65 @@
 <b>Супліддя</b> – плід, який під час формування зростається з іншими плодами із суцвіття. Супліддя властиве буряку та ананасу, шовковиці.
 </div>
 </div>
+
+<quiz>
+<question>
+<p>Співвіднесіть характеристику соковитого плода та його назву:<br>
+Ендокарпій утворює плівчасті камери</p>
+<answer>гарбузина</answer>
+<answer correct>яблуко</answer>
+<answer>багатокістянка</answer>
+<answer>помаранча</answer>
+</question>
+<question>
+<p>Екзокарпій містить ефірні олії</p>
+<answer>гарбузина</answer>
+<answer>яблуко</answer>
+<answer>багатокістянка</answer>
+<answer correct>помаранча</answer>
+</question>
+<question>
+<p>Формується у квітках з великою кількістю маточок</p>
+<answer>гарбузина</answer>
+<answer>яблуко</answer>
+<answer correct>багатокістянка</answer>
+<answer>помаранча</answer>
+</question>
+<question>
+<p>Зовнішній шар дерев’яніє</p>
+<answer correct>гарбузина</answer>
+<answer>яблуко</answer>
+<answer>багатокістянка</answer>
+<answer>помаранча</answer>
+</question>
+<question>
+<p>Плід кістянка характерний для</p>
+<answer>айва, горобина</answer>
+<answer correct>слива, вишня</answer>
+<answer>жито, пшениця</answer>
+<answer>помідор, картопля</answer>
+<explanation>
+Айва, горобина – плід яблуко; жито, пшениця – плід зернівка; помідор, картопля – плід ягода.
+</explanation>
+</question>
+<question>
+<p>Плід ягода характерний для</p>
+<answer correct>томат, картопля</answer> 
+<answer>малина, ожина</answer> 
+<answer>ананас, буряк</answer> 
+<answer>горох, квасоля</answer> 
+<explanation>
+Малина, ожина – плід багатокістянка; ананас, буряк – супліддя; горох, квасоля – біб.
+</explanation>
+</question>
+<question>
+<p>Розростання цього елемента квітки обумовлює появу плівчастих камер у яблуці. Назвіть даний елемент квітки.</p>
+<answer correct>квітколоже</answer>
+<answer>маточка</answer>
+<answer>квітконіжка</answer>
+<answer>зав’язь</answer>
+<explanation>
+Плівчасті камери в яблуці – результат розростання квітколожа.
+</explanation>
+</question>
+</quiz>
