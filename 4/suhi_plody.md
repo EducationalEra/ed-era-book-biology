@@ -84,3 +84,36 @@
 </tr>
 </tbody>
 </table>
+
+<quiz>
+<question>
+<p>До сухих розкривних плодів належить:</p>
+<answer>сім’янка</answer> 
+<answer>зернівка</answer> 
+<answer correct>коробочка</answer>
+<answer>кістянка</answer>
+<explanation>
+Кістянка – соковитий плід, а зернівка та сім’янка – сухі нерозкривні плоди.
+</explanation>
+</question>
+<question>
+<p>Виберіть групу рослин, які мають плід біб</p>
+<answer>горох, квасоля</answer>
+<answer>капуста, гірчиця</answer>
+<answer>грицики, рижій</answer>
+<answer>ячмінь, жито</answer>
+<explanation>
+Капуста, гірчиця – плід стручок; грицики – коробочка, рижій – стручок; ячмінь, жито – зернівка.
+</explanation>
+</question>
+<question>
+<p>Виберіть групу рослин, які мають плід сім’янка</p>
+<answer>талабан, грицики</answer>
+<answer>сокирки, магнолія</answer>
+<answer>гречка, бук</answer>
+<answer correct>соняшник, кульбаба</answer>
+<explanation>
+Талабан, грицики – плід коробочка; сокирки, магнолія – плід листянка; гречка, бук – плід горіх.
+</explanation>
+</question>
+</quiz>
