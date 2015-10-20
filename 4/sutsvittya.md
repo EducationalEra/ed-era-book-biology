@@ -29,43 +29,43 @@
 <td>Квiтки на квiтконiжках
 однакової довжини розташованi на видовженiй осi</td>
 <td>Черемха, смородина, iванчай, конвалiя</td>
-<td><img src="pic2.jpg"></td>
+<td width="20%"><img src="pic2.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Колос</td>
 <td>Сидячi квiтки (без квiтконiжок) розташованi на видовженiй осi</td>
 <td>Осока, подорожник, вербена</td>
-<td><img src="pic4.jpg"></td>
+<td><img src="pic4.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Щиток</td>
 <td>На головнiй осi розташовано квiтки з квiтконiжками рiзної довжини</td>
 <td>Груша, яблуня, глiд</td>
-<td><img src="pic6.jpg"></td>
+<td><img src="pic6.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Зонтик</td>
 <td>На головнiй осi розташовано квiтки iз квiтконiжками однакової довжини</td>
 <td>Вишня, цибуля, часник, первоцвiт весняний</td>
-<td><img src="pic8.jpg"></td>
+<td><img src="pic8.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Початок</td>
 <td>На потовщенiй осi розташованi сидячi квiтки</td>
 <td>Кала, аїр, кукурудза</td>
-<td><img src="pic10.jpg"></td>
+<td><img src="pic10.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Кошик</td>
 <td>Квiтки без квiтконiжок розмiщенi на блюдцеподiбнiй осi</td>
 <td>Соняшник, кульбаба, ромашка</td>
-<td><img src="pic12.jpg"></td>
+<td><img src="pic12.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Головка</td>
 <td>Квiтки з короткими квiтконiжками розташованi на потовщенiй та вкороченiй осi</td>
 <td>Конюшина</td>
-<td><img src="pic14_new.jpg"></td>
+<td><img src="pic14_new.jpg" width="130px"></td>
 </tr>
 </tbody>
 </table>
@@ -87,31 +87,31 @@
 <td>Складний колос</td>
 <td>Прості колоски</td>
 <td>Злакові: пшениця, ячмінь, жито</td>
-<td><img src="pic4_skl.jpg"></td>
+<td width="20%"><img src="pic4_skl.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Волоть</td>
 <td>Прості китиці</td>
 <td>Бузок, овес, виноград, рис, просо</td>
-<td><img src="pic2_skl.jpg"></td>
+<td><img src="pic2_skl.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Складний зонтик</td>
 <td>Прості зонтики</td>
 <td>Петрушка, морква, кріп</td>
-<td><img src="pic8_skl.jpg"></td>
+<td><img src="pic8_skl.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Складний щиток</td>
 <td>Прості щитки або кошики</td>
 <td>Щитки – в горобини, кошики – в деревію</td>
-<td><img src="pic6_skl.jpg"></td>
+<td><img src="pic6_skl.jpg" width="130px"></td>
 </tr>
 <tr>
 <td>Сережка</td>
 <td>На головній осі розташовані групи сидячих одностатевих квіток </td>
 <td>Ліщина, береза</td>
-<td><img src="Seka.jpg"></td>
+<td><img src="Seka.jpg" width="130px"></td>
 </tr>
 </tbody>
 </table>
