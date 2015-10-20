@@ -35,3 +35,36 @@
     До водозапильних рослин належать кушир і стрілолист.
 
 -   Тваринами (зоофілія). У таких рослин нектар не пахне, він рідкий.
+
+<quiz>
+<question>
+<p>Липкий пилок – це пристосування до запилення:</p>
+<answer>водою</answer>
+<answer>птахами</answer>
+<answer correct>комахами</answer>
+<answer>вітром</answer>
+<explanation>
+У комахозапильних рослин пилок відносно великий та липкий.
+</explanation>
+</question>
+<question multiple>
+<p>До самозапильних рослин належать:</p>
+<answer>береза</answer>
+<answer correct>квасоля</answer>
+<answer>кушир</answer>
+<answer correct>горох</answer>
+<explanation>
+Береза – вітрозапильна рослина, а кушир – водозапильна рослина.
+</explanation>
+</question>
+<question>
+<p>Запилення водою властиве:</p>
+<answer>березі</answer>
+<answer>дубу та грабу</answer>
+<answer correct>куширу та стрілолисту</answer>
+<answer>гороху та квасолі </answer>
+<explanation>
+Береза - вітрозапильна рослина, дуб і граб – комахозапильні рослини, а горох та квасоля – самозапильні.
+</explanation>
+</question>
+</quiz>
