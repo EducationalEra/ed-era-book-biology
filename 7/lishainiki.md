@@ -20,7 +20,9 @@
 </div>
 </div>
 
-<div align="center"><img src="b161_box3.png"/></div>
+<div align="center">
+<img src="b161_box3.png"/>
+</div>
 
 <p>За формою слані (талому) розрізняють три види лишайників:</p>
 <ul>
