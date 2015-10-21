@@ -50,7 +50,7 @@
        * [Діатомові водорості](5/diatomovi_vodorosti.md)
        * [Бурі водорості](5/buri_vodorosti.md)
        * [Червоні водорості (Багрянки)](5/chervoni_vodorosti_bagryanky.md)
-   * ["Вихід" рослин на суходіл](5/vyhid_roslyn_na_suhodol.md)
+   * [«Вихід» рослин на суходіл](5/vyhid_roslyn_na_suhodol.md)
    * [Вищі спорові рослини](5/vyschi_sporov_roslyny.md)
        * [Відділ Мохоподібні](5/viddil_mohopodibni.md)
        * [Відділ Плауноподібні](5/viddil_plaunopodibni.md)
