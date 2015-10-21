@@ -7,7 +7,9 @@
 <li>Їстівні та отруйні.</li>
 </ul>
 
-<div align="center"><img src="b161_box2.png"/></div>
+<div align="center">
+<img src="b161_box2.png" width="540"/>
+</div>
 
 <p>За виглядом нижнього спороносного шару — <span class="p1">гіменофору</span> — шапкові гриби класифікують на <span class="p1">трубчасті</span> та <span class="p1">пластинчасті</span>.</p>
 
