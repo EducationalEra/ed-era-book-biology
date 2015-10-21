@@ -56,7 +56,7 @@
        * [Відділ Плауноподібні](5/viddil_plaunopodibni.md)
        * [Відділ Хвощеподібні](5/viddil_hvoschepodibni.md)
        * [Відділ Папоротеподібні](5/viddil_paporotepodibni.md)
-* [Різноманітність рослин: насінні рослини](6/riznomanitnist_roslyn.md)
+* [Різноманітність рослин: насінні рослини](6/viddil_golonasinni.md)
    * [Відділ Голонасінні](6/viddil_golonasinni.md)
        * [Життєвий цикл Голонасінних](6/zhyttevyi_tsykl_golonasnnyh.md)
        * [Різноманітність Голонасінних](6/riznomanitnist_golonasinnyh.md)
@@ -66,9 +66,8 @@
    * [Клас Дводольні](6/klas_dvodolni.md)
    * [Клас Однодольні](6/klas_odnodolni.md)
 * [Гриби](7/gribi.md)
-    * [Цвілеві гриби](7/tsvlev_gribi.md)
-    * [Шапкові гриби](7/shapkov_gribi.md)
-    * [Гриби-паразити](7/gribi-paraziti.md)
+   * [Цвілеві гриби](7/tsvlev_gribi.md)
+   * [Шапкові гриби](7/shapkov_gribi.md)
+   * [Гриби-паразити](7/gribi-paraziti.md)
 * [Лишайники](7/lishainiki.md)
-
 
