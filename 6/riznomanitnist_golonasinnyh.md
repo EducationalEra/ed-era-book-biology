@@ -26,4 +26,3 @@
 <img src="pic2.jpg">
 <p>Автор: <span class="p1">Kurt Stüber</span></p>
 </div>
-
