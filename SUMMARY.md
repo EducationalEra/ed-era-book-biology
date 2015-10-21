@@ -57,12 +57,12 @@
        * [Відділ Хвощеподібні](5/viddil_hvoschepodibni.md)
        * [Відділ Папоротеподібні](5/viddil_paporotepodibni.md)
 * [Різноманітність рослин: насінні рослини](6/viddil_golonasinni.md)
+   * Життєвий цикл Голонасінних
    * [Клас Хвойні](6/klas_hvoini.md)
        * [Різноманітність Хвойних](6/riznomanitnist_hvoinyh.md)
    * [Відділ Покритонасінні](6/viddil_pokrytonasinni.md)
    * [Клас Дводольні](6/klas_dvodolni.md)
    * [Клас Однодольні](6/klas_odnodolni.md)
-   * Життєвий цикл Голонасінних
 * [Гриби](7/gribi.md)
    * [Цвілеві гриби](7/tsvlev_gribi.md)
    * [Шапкові гриби](7/shapkov_gribi.md)
