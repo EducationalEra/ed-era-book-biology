@@ -70,4 +70,3 @@
    * [Шапкові гриби](7/shapkov_gribi.md)
    * [Гриби-паразити](7/gribi-paraziti.md)
 * [Лишайники](7/lishainiki.md)
-
