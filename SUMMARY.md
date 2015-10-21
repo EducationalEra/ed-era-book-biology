@@ -58,7 +58,7 @@
        * [Відділ Папоротеподібні](5/viddil_paporotepodibni.md)
 * [Різноманітність рослин: насінні рослини](6/viddil_golonasinni.md)
    * [Життєвий цикл Голонасінних](6/zhyttevyi_tsykl_golonasnnyh.md)
-   * Різноманітність Голонасінних
+   * [Різноманітність Голонасінних](6/riznomanitnist_golonasinnyh.md)
    * [Клас Хвойні](6/klas_hvoini.md)
        * [Різноманітність Хвойних](6/riznomanitnist_hvoinyh.md)
    * [Відділ Покритонасінні](6/viddil_pokrytonasinni.md)
