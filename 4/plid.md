@@ -21,9 +21,17 @@
 </div>
 </div>
 
+
 За консистенцією оплодня плоди класифікують на соковиті та сухі. У соковитих плодах у середньому шарі оплодню накопичуються поживні речовини, вода та вітаміни. А у сухих плодах мезокарпій зазвичай дерев’яніє.
 
 Плоди також класифікують на однонасінні та багатонасінні, залежно від кількості насінин.
+
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/vwocl8lbs7g" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 <quiz>
 <question>
