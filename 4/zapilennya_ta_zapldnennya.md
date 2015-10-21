@@ -36,6 +36,13 @@
 
 -   Тваринами (зоофілія). У таких рослин нектар не пахне, він рідкий.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/UCjtR32ia_c" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+
 <quiz>
 <question>
 <p>Липкий пилок – це пристосування до запилення:</p>
