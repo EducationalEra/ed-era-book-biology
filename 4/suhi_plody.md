@@ -85,6 +85,14 @@
 </tbody>
 </table>
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/G7pIoNqgghg" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
+
 <quiz>
 <question>
 <p>До сухих розкривних плодів належить:</p>
