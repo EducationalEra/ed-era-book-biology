@@ -57,7 +57,7 @@
        * [Відділ Хвощеподібні](5/viddil_hvoschepodibni.md)
        * [Відділ Папоротеподібні](5/viddil_paporotepodibni.md)
 * [Різноманітність рослин: насінні рослини](6/viddil_golonasinni.md)
-   * [Відділ Голонасінні](6/vddl_golonasnn.md)
+   * [Відділ Голонасінні](6/viddil_golonasinni.md)
    * [Клас Хвойні](6/klas_hvoini.md)
        * [Різноманітність Хвойних](6/riznomanitnist_hvoinyh.md)
    * [Відділ Покритонасінні](6/viddil_pokrytonasinni.md)
