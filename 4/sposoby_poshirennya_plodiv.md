@@ -7,7 +7,6 @@
 <li><span class="p1">Саморозкидання (автохорія)</span>: скажений огірок, люпин, караган самі розповсюджують своє насіння.</li>
 </ul>
 
-
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/wEgxVUAxfJ0" frameborder="0" allowfullscreen></iframe>
 </div>
