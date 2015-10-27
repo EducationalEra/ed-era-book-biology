@@ -63,3 +63,23 @@
 <img src="12.jpg">
 <p>Автор: <span class="p1">Graça Gaspar</span></p>
 </div>
+
+<quiz>
+<question>
+<p>Типові представники бурих водоростей – це:</p>
+<answer>навікула, пінулярія</answer>
+<answer>порфіра, кораліна</answer>
+<answer correct>фукус, макроцистіс</answer>
+<answer>ульва, хлорела</answer>
+<explanation>Навікула та пінулярія – діатомові водорості; порфіра, кораліна – червоні, а ульва та хлорела – зелені.</explanation>
+</question>
+
+<question>
+<p>У клітинах бурих водоростей відкладається</p>
+<answer>глюкоза</answer>
+<answer>крохмаль</answer>
+<answer>інулін</answer>
+<answer correct>ламінарин</answer>
+<explanation>Запасна речовина бурих водоростей – ламінарин (навіть є така водорість – ламінарія).</explanation>
+</question>
+</quiz>
