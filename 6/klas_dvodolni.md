@@ -70,3 +70,81 @@
 -   **Айстрові (Складноцвіті).**<br>
 Кошик має *обгортку* із зелених листочків. Квіти можуть бути трубчастими, язичковими, несправжньоязичковими або лійкоподібними.
 
+<quiz>
+<question>
+<p>Співжиття з бульбочковими бактеріями – характерна особливість родини:</p>
+<answer>Айстрові</answer>
+<answer correct>Бобові</answer>
+<answer>Пасльонові</answer>
+<answer>Розові</answer>
+<explanation>Бульбочкові бактерії забезпечують рослини родини Бобові сполуками азоту.</explanation>
+</question>
+<question>
+<question>
+<p>Установіть відповідність між ознаками будови квітки родини Розові.<br>
+суцвіття</p>
+<answer correct>щиток</answer>
+<answer>багато</answer>
+<answer>5</answer> 
+<answer>зрослопелюстковий</answer>
+<answer>вільнопелюстковий</answer>
+</question>
+<question>
+<p>кількість</p>
+<answer>щиток</answer>
+<answer>багато</answer>
+<answer correct>5</answer>
+<answer>зрослопелюстковий</answer>
+<answer>вільнопелюстковий</answer>
+</question>
+<question>
+<p>тичинок</p>
+<answer>щиток </answer>
+<answer correct>багато</answer>
+<answer>5</answer>
+<answer>зрослопелюстковий</answer> 
+<answer>вільнопелюстковий</answer>
+</question>
+<question>
+<p>віночок</p>
+<answer>щиток</answer>
+<answer>багато</answer> 
+<answer>5</answer>
+<answer>зрослопелюстковий</answer>
+<answer correct>вільнопелюстковий</answer>
+</question>
+<question>
+<p>Установіть відповідність між ознаками будови в родині Капустяні (Хрестоцвітні).<br>
+суцвіття
+</p>
+<answer>чотири</answer>
+<answer>прості</answer>
+<answer correct>китиця</answer>
+<answer>шість</answer>
+<answer>5</answer>
+</question>
+<question>
+<p>чашолистків</p>
+<answer correct>чотири</answer>
+<answer>прості</answer>
+<answer>китиця</answer>
+<answer>шість</answer>
+<answer>5</answer>
+</question>
+<question>
+<p>листки</p>
+<answer>чотири</answer>
+<answer correct>прості</answer>
+<answer>китиця</answer>
+<answer>шість</answer>
+<answer>5</answer>
+</question>
+<question>
+<p>тичинок</p>
+<answer>чотири</answer>
+<answer>прості</answer>
+<answer>китиця</answer>
+<answer correct>шість</answer>
+<answer>5</answer>
+</question>
+</quiz>
