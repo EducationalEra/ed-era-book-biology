@@ -33,3 +33,8 @@
 
 Ці водорості двобічносиметричні, та є <span class="p1">бентос</span> ними організмами, тобто мешкають на дні водойм.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/ssRo2_ROvU4" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
