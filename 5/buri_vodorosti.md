@@ -19,6 +19,13 @@
 
 Бурі водорості використовуються людиною у харчовій, хімічній та текстильній. промисловості, медицині, для добування йоду, брому, альгінатів.
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Ohm-XqHsK7U" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 ## Різноманітність бурих водоростей: 
 
 ### Ламінарія (морська капуста)
@@ -55,10 +62,4 @@
 <div align="center">
 <img src="12.jpg">
 <p>Автор: <span class="p1">Graça Gaspar</span></p>
-</div>
-
-<div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Ohm-XqHsK7U" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="popup">
 </div>
