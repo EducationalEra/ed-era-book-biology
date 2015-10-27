@@ -31,3 +31,24 @@
 </div>
 <div class="popup">
 </div>
+
+
+<img src="https://study.ed-era.com/c4x/EdEra/B101/asset/KkE_TiK0ZqU.jpg">
+<quiz>
+<question>
+<p>Вирости, які позначено на рисунку буквою Х, призначені для</p>
+<answer correct>закріплення рослини в ґрунті</answer>
+<answer>здійснення фотосинтезу</answer>
+<answer>статевого розмноження</answer>
+<answer>відкладання поживних речовин</answer>
+<explanation>Зображено гаметофіт папороті, який закріплюється позначеними на малюнку ризоїдами в ґрунті.</explanation>
+</question>
+<question>
+<p>Група спорангіїв на нижньому боці вайї називається:</p>
+<answer>стробіл</answer>
+<answer>індузій</answer>
+<answer correct>сорус</answer>
+<answer>спороносний колосок</answer>
+<explanation>Стробіл – це зібрання спорангіїв у плауна, індузій – покривальце, яке вкриває сорус, а спороносний колосок – сукупність спорангіїв у хвоща.</explanation>
+</question>
+</quiz>
