@@ -33,6 +33,11 @@
 
 Від моменту запилення до моменту запліднення, тобто злиття гамет, зазвичай проходить не менше, ніж півроку.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/JEiUVodj-Ew" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 <quiz>
 <question>
