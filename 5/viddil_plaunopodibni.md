@@ -34,3 +34,23 @@
 </div>
 <div class="popup">
 </div>
+
+
+<quiz>
+<question>
+<p>Сукупність спорангіїв на спорофіті плауна булавовидного – це:</p>
+<answer>макроспорангій</answer>
+<answer>спороносний колосок</answer>
+<answer correct>стробіл</answer> 
+<answer>сорус</answer>
+<explanation>Спороносний колосок – це сукупність спорангіїв у хвощеподібних, а сорус – у папоротеподібних.</explanation>
+</question>
+
+<question>
+<p>Спори яких рослин використовують для виготовлення дитячої присипки</p>
+<answer correct>плауноподібних</answer> 
+<answer>хвощеподібних</answer>
+<answer>мохоподібних</answer>
+<answer>папоротеподібних</answer>
+</question>
+</quiz>
