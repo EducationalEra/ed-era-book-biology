@@ -19,6 +19,13 @@
 
 Червоні водорості використовуються у харчовій промисловості та медицині, з них добувають агар.
 
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/bg9-PoA2gpk" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 ## Різноманітність червоних водоростей: 
 
 ### Порфіра (червоний морський салат)
@@ -44,9 +51,3 @@
 </div>
 
 Схожа на кущики. В Україні з неї добувають «чорноморський агар», який використовується у промисловості та мікробіології. З філофори також добувають йод.
-
-<div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/bg9-PoA2gpk" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="popup">
-</div>
