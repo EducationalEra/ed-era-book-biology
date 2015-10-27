@@ -50,7 +50,7 @@
 </question>
 <question>
 <p>Рослини, що належать до відділу Голонасінні, не мають</p>
-<answer correct>плодів
+<answer correct>плодів</answer>
 <answer>шишок</answer>
 <answer>листків</answer>
 <answer>насіння</answer>
