@@ -50,3 +50,45 @@
 -   **Злакові (Тонконогові).**<br>
 Порожнисте у міжвузлях стебло – соломина.
 
+<quiz>
+<question>
+<p>У рослин із родини Злакові плід:</p>
+<answer correct>Зернівка</answer>
+<answer>Сім’янка</answer>
+<answer>Біб</answer>
+<answer>Горіх</answer>
+</question>
+<question>
+<p>Установіть відповідність між ознаками будови в родині Лілійні.<br>
+листки</p>
+<answer>три</answer>
+<answer correct>прості</answer>
+<answer>одна</answer>
+<answer>китиця</answer>
+<answer>коробочка</answer>
+</question>
+<question>
+<p>маточка</p>
+<answer>три</answer>
+<answer>прості</answer>
+<answer correct>одна</answer>
+<answer>китиця</answer>
+<answer>коробочка</answer>
+</question>
+<question>
+<p>суцвіття</p>
+<answer>три</answer>
+<answer>прості</answer>
+<answer>одна</answer>
+<answer correct>китиця</answer>
+<answer>коробочка</answer>
+</question>
+<question>
+<p>плід</p>
+<answer>три</answer>
+<answer>прості</answer>
+<answer>одна</answer>
+<answer>китиця</answer>
+<answer correct>коробочка</answer>
+</question>
+</quiz>
