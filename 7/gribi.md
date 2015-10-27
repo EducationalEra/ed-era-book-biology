@@ -50,16 +50,17 @@
 <answer correct>міцелій</answer>
 <answer>мікориза</answer>
 <answer>слань</answer>
+</question>
 <question>
 <p>Вегетативне тіло утворене</p>
 <answer>клітинами, що утворюють нитки</answer>
 <answer correct>щільним сплетенням гіф</answer>
 <answer>шапкою і ніжкою</answer>
+</question>
 <question>
 <p>Тип живлення</p>
 <answer>хемотрофи</answer>
 <answer>автотрофи</answer>
 <answer correct>гетеротрофи</answer>
 </question>
-<question>
 </quiz>
