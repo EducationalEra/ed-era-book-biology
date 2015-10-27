@@ -31,7 +31,7 @@
 <p>Автор: <span class="p1">Minami Himemiya</span></p>
 </div>
 
-Ці водорості двобічносиметричні, та є <span class="p1">бентос</span> ними організмами, тобто мешкають на дні водойм.
+Ці водорості двобічносиметричні, та є <span class="p1">бентосними</span> організмами, тобто мешкають на дні водойм.
 
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/ssRo2_ROvU4" frameborder="0" allowfullscreen></iframe>
