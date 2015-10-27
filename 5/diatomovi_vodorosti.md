@@ -38,3 +38,33 @@
 </div>
 <div class="popup">
 </div>
+
+<quiz>
+<question>
+<p>Співвіднесіть водорість та особливість її будови:
+навікула</p>
+<answer>багатоклітинна водорість</answer>
+<answer correct>одноклітинна водорість</answer>
+<answer>колоніальна водорість</answer>
+</question>
+<question>
+<p>спірогира</p>
+<answer correct>багатоклітинна водорість</answer>
+<answer>одноклітинна водорість</answer>
+<answer>колоніальна водорість</answer>
+</question>
+<question>
+<p>вольвокс</p>
+<answer>багатоклітинна водорість</answer>
+<answer>одноклітинна водорість</answer>
+<answer correct>колоніальна водорість</answer>
+</question>
+<question>
+<p>Речовина, яку містить панцир діатомових водоростей</p>
+<answer>ламінарин</answer>
+<answer>целюлоза</answer>
+<answer correct>кремнезем</answer>
+<answer>багрянковий крохмаль</answer>
+<explanation>Черепашка діатомових водоростей просочена кремнеземом, а через пори відбувається обмін речовин водорості з навколишнім середовищем.</explanation>
+</question>
+</quiz>
