@@ -7,6 +7,12 @@
 <li>Їстівні та отруйні.</li>
 </ul>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/ieRs6wURKwE" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <div align="center">
 <img src="b161_box2.png" width="540"/>
 </div>
