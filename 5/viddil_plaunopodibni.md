@@ -29,3 +29,8 @@
 
 Зі спори виростає гаметофіт – <span class="p1">заросток</span>, на якому наявні архегонії та антеридії. В гаметофіту також є ризоїди, які закріплюють рослину в ґрунті. Із заплідненої яйцеклітини розвивається новий спорофіт.
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/4aWqpViMA5Q" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
