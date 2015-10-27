@@ -36,3 +36,19 @@
 </div>
 
 
+<quiz>
+<question>
+<p>Формування конідієносців властиве:</p>
+<answer>ріжкам</answer>
+<answer>мукору</answer>
+<answer correct>пеніцилу</answer>
+<answer>трутовикам</answer>
+</question>
+<question>
+<p>Антибіотики можна отримати з клітин:</p>
+<answer>дріждів</answer>
+<answer>іржастих грибів</answer>
+<answer correct>пеніцилу</answer>
+<answer>білого гриба</answer>
+<explanation>Пеніцил – цвілевий гриб, а цвілеві гриби виділяють речовини, які мають бактерицидну дію.</explanation>
+</quiz>
