@@ -19,6 +19,12 @@
 </div>
 </div>
 
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/yLsJBeWYuow" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
+
 <div align="center"><img src="b161_box1.png"/></div>
 
 <p><u><i>За будовою грибниці</i></u> гриби класифікують на нижчі та вищі. Якщо у гіфах немає перетинок, весь міцелій нагадує розгалужену клітину. Гриби з таким міцелієм називають <span class="p1">нижчими</span>, а міцелій  інколи <span class="p1">неклітинним</span>, <span class="p1">несептованим</span>.</p>
