@@ -1,11 +1,5 @@
 # Клас Дводольні
 
-<div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/7wFP973NEvI" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="popup">
-</div>
-
 <table>
 <thead>
 <tr>
@@ -75,6 +69,12 @@
 
 -   **Айстрові (Складноцвіті).**<br>
 Кошик має *обгортку* із зелених листочків. Квіти можуть бути трубчастими, язичковими, несправжньоязичковими або лійкоподібними.
+
+<div class="fluidMedia">
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/7wFP973NEvI" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="popup">
+</div>
 
 <quiz>
 <question>
