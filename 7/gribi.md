@@ -29,3 +29,31 @@
 
 <p><u><i>За способом живлення</i></u> розрізняють <span class="p1">сапротрофи</span>, які живляться рештками відмерлих організмів, <span class="p1">паразити</span>, які живуть і живляться за рахунок іншого організму, та <span class="p1">симбіотрофи</span>, які не завдають шкоди, а інколи й приносять користь організму, з яким співіснують.</p>
 
+<quiz>
+<question>
+<p>Грибам властивий тип живлення:</p>
+<answer>Автотрофний</answer>
+<answer>Міксотрофний</answer>
+<answer correct>Гетеротрофний</answer>
+<answer>Сапрофітний</answer>
+<explanation>Гриби не є автотрофами або мікотрофами, але сапрофітний – це різновид гетеротрофного живлення.</explanation>
+</question>
+<question>
+<p>Виберіть ознаки грибів<br>
+Тіло називається</p>
+<answer correct>міцелій</answer>
+<answer>мікориза</answer>
+<answer>слань</answer>
+<question>
+<p>Вегетативне тіло утворене</p>
+<answer>клітинами, що утворюють нитки</answer>
+<answer correct>щільним сплетенням гіф</answer>
+<answer>шапкою і ніжкою</answer>
+<question>
+<p>Тип живлення</p>
+<answer>хемотрофи</answer>
+<answer>автотрофи</answer>
+<answer correct>гетеротрофи</answer>
+</question>
+<question>
+</quiz>
