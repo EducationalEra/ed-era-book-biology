@@ -26,3 +26,14 @@
 <img src="pic2.jpg">
 <p>Автор: <span class="p1">Kurt Stüber</span></p>
 </div>
+
+<quiz>
+<question>
+<p>Яку рослину відносять до голонасінних?</p>
+<answer>хвощ польовий</answer>
+<answer correct>гінгко дволопатеве</answer>
+<answer>маршнація мінлива</answer>
+<answer>орляк звичаний</answer>
+<explanation>Хвощ польовий належить до відділу Хвощеподібні, маршанція мінлива – Мохоподібні, а орляк звичайний – Папоротеподібні.</explanation>
+</question>
+</quiz>
