@@ -36,3 +36,23 @@
 </div>
 <div class="popup">
 </div>
+
+<quiz>
+<question>
+<p>Підземна частина хвощеподібних – це:</p>
+<answer>корінь</answer>
+<answer>коренеплід</answer>
+<answer correct>кореневище</answer>
+<answer>членисте стебло</answer>
+<explanation>Підземна частина хвоща представлена кореневищем, на якому можуть утворюватися бульби.</explanation>
+</question>
+
+<question>
+<p>Основна функція весняних пагонів хвоща польового –</p>
+<answer correct>спороношення</answer>
+<answer>фотосинтез</answer>
+<answer>накопичення поживних речовин</answer>
+<answer>закріплення рослини в ґрунті</answer>
+<explanation>Весняні пагони хвоща польового бурі та спороносні, а літні – зелені та фотосинтезуючі.</explanation>
+</question>
+</quiz>
