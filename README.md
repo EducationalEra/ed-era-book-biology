@@ -2,30 +2,27 @@
 
 1. [Вступне слово](vstup.md)
 * [Вступ до бiологiї та ботанiки](1/predmet_vivchennya_biologi_osnovni_oznaki_zhivo_materi_oznachennya.md)
-   1. [Предмет вивчення бiологiї. Основнi ознаки живої матерiї](1/predmet_vivchennya_biologi_osnovni_oznaki_zhivo_materi_oznachennya.md)
-   * [Царства живого](1/tsarstva_zhivogo.md)
+   1. [Царства живого](1/tsarstva_zhivogo.md)
    * [Бiологiчнi науки](1/biologichni_nauki.md)
    * [Предмет вивчення ботанiки. Характеристика царства Рослини](1/predmet_vivchennya_botaniki_harakteristika_tsarstva_roslini.md)
 * [Клiтина та тканини рослин](2/roslinna_klitina.md)
-   1. [Рослинна клiтина](2/roslinna_klitina.md)
-   * [Рослиннi тканини](2/roslinni_tkanini.md)
+   1. [Рослиннi тканини](2/roslinni_tkanini.md)
 * [Вегетативнi органи рослин](3/organi_roslin.md)
-   1. [Органи рослин](3/organi_roslin.md)
-   * [Корiнь](3/korin.md)
+   1. [Корiнь](3/korin.md)
        1. [Кореневi системи](3/korenevi_sistemi.md)
        * [Зони кореня](3/zoni_korenya.md)
        * [Внутрiшня будова кореня у всиснiй зонi](3/vnutrishnya_budova_korenya_u_vsisnii_zoni.md)
        * [Видозмiни кореня](3/vidozmini_korenya.md)
-   * [Добрива](3/dobriva.md)   
+   * [Добрива](3/dobriva.md)
    * [Пагiн: загальна характеристика](3/pagin_zagalna_harakteristika.md)
-       * [Рiст та галуження пагона](3/rist_ta_galuzhennya_pagona.md)
+       1. [Рiст та галуження пагона](3/rist_ta_galuzhennya_pagona.md)
    * [Пагiн: брунька](3/pagin_brunka.md)
    * [Пагiн: стебло](3/pagin_steblo.md)
-       * [Транспорт речовин](3/transport_rechovin.md)
+       1. [Транспорт речовин](3/transport_rechovin.md)
    * [Видозмiни](3/nadzemni_vidozmini.md)
-       * [Пiдземнi видозмiни](3/pidzemni_vidozmini.md)
+       1. [Пiдземнi видозмiни](3/pidzemni_vidozmini.md)
    * [Пагiн: листок](3/pagin_listok.md)
-       * [Зовнiшня будова листка](3/zovnishnya_budova_listka.md)
+       1. [Зовнiшня будова листка](3/zovnishnya_budova_listka.md)
        * [Класифiкацiя листкiв](3/klasifikatsiya_listkiv.md)
        * [Жилкування](3/zhilkuvannya.md)
        * [Листкорозмiщення](3/listkorozmischennya.md)
@@ -33,54 +30,39 @@
        * [Явище листопаду](3/yavische_listopadu.md)
        * [Видозмiни листка](3/vidozmini_listka.md)
    * [Процеси життєдiяльностi рослин](3/protsesi_zhittdiyalnosti_roslin.md)
-* Репродуктивнi органи рослин
-   1. Квітка
-        1. Зовнішня будова квітки
-        2. Класифікація квіток
-   2. Суцвіття
-        1. Прості суцвіття
-        2. Складні суцвіття
-   3. Запилення та запліднення
-        1. Будова тичинки та пилкового зерна
-        2. Будова маточки та насінного зачатка
-        3. Механізм подвійного запліднення
-   4. Насінина
-   5. Плід
-        1. Соковиті плоди
-        2. Сухі плоди
-        3. Способи поширення плодів і насіння
-   6. Вегетативне розмноження
-* Різноманітність рослин. Водорості(нижчі) та вищі сопорові рослини
-   1. Систематика рослин
-   2. Водорості
-        1. Зелені водорості
-        2. Діатомові водорості
-        3. Бурі водорості
-        4. Червоні водорості (Багрянки)
-   3. "Вихід" рослин на суходіл
-   4. Вищі спорові рослини
-        1. Відділ Мохоподібні
-        2. Відділ Плауноподібні
-        3. Відділ Хвощеподібні
-        4. Відділ Папоротеподібні
-* Різноманітність рослин: насінні рослини
-    1. Відділ Голонасінні
-        1. Загальна характеристика Голонасінних
-        2. Життєвий цикл Голонасінних
-        3. Різноманітність Голонасінних
-    2. Клас Хвойні
-        1. Загальна характеристика класу Хвойні
-        2. Різноманітність Хвойних
-    3. Відділ Покритонасінні
-        1. Загальна характеристика класу Покритонасінні
-        2. Життєвий цикл Покритонасінних 
-    4. Клас Дводольні
-    5. Клас Однодольні
-* Гриби та лишайники
-    1. Гриби
-        1. Загальна характеристика грибів
-        2. Цвілеві гриби
-        3. Шапкові гриби
-        4. Гриби-паразити
-    2. Лишайники
-        1. Загальна характеристика лишайників
+* [Репродуктивнi органи рослин](4/reproduktivni_organi_roslin.md)
+   1. [Зовнішня будова квітки](4/zovnishnya_budova_kvitky.md)
+   * [Суцвіття](4/sutsvittya.md)
+   * [Запилення та запліднення](4/zapilennya_ta_zapldnennya.md)
+       1. [Будова тичинки та пилкового зерна](4/budova_tichinki_ta_pilkovogo_zerna.md)
+       * [Будова маточки та насінного зачатка](4/budova_matochki_ta_nasnnogo_zachatka.md)
+       * [Механізм подвійного запліднення](4/mehanzm_podvinogo_zapldnennya.md)
+   * [Насінина](4/nasnina.md)
+   * [Плід](4/plid.md)
+       1. [Соковиті плоди](4/sokovyti_plody.md)
+       * [Сухі плоди](4/suhi_plody.md)
+       * [Способи поширення плодів і насіння](4/sposoby_poshirennya_plodiv.md)
+   * [Вегетативне розмноження](4/vegetatyvne_rozmnozhennya.md)
+* [Різноманітність рослин. Водорості(нижчі) та вищі сопорові рослини](5/riznomanitnist_roslyn.md)
+   1. [Водорості](5/vodorosti.md)
+       1. [Зелені водорості](5/zeleni_vodorosti.md)
+       * [Діатомові водорості](5/diatomovi_vodorosti.md)
+       * [Бурі водорості](5/buri_vodorosti.md)
+       * [Червоні водорості (Багрянки)](5/chervoni_vodorosti_bagryanky.md)
+   * [«Вихід» рослин на суходіл](5/vyhid_roslyn_na_suhodol.md)
+   * [Вищі спорові рослини](5/vyschi_sporov_roslyny.md)
+       1. [Відділ Мохоподібні](5/viddil_mohopodibni.md)
+       * [Відділ Плауноподібні](5/viddil_plaunopodibni.md)
+       * [Відділ Хвощеподібні](5/viddil_hvoschepodibni.md)
+       * [Відділ Папоротеподібні](5/viddil_paporotepodibni.md)
+* [Різноманітність рослин: насінні рослини. Голонасінні.](6/viddil_golonasinni.md)
+   1. [Різноманітність Голонасінних](6/riznomanitnist_golonasinnyh.md)
+   * [Клас Хвойні](6/klas_hvoini.md)
+   * [Відділ Покритонасінні](6/viddil_pokrytonasinni.md)
+   * [Клас Дводольні](6/klas_dvodolni.md)
+   * [Клас Однодольні](6/klas_odnodolni.md)
+* [Гриби](7/gribi.md)
+   1. [Цвілеві гриби](7/tsvlev_gribi.md)
+   * [Шапкові гриби](7/shapkov_gribi.md)
+   * [Гриби-паразити](7/gribi-paraziti.md)
+* [Лишайники](7/lishainiki.md)
