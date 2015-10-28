@@ -3,10 +3,10 @@
         "mathjax",
         "addcssjs",
         "modal-youtube-video",
-        "quiz",
         "gtm",
         "ga",
         "disqus",
+        "quiz",
         "anchor-navigation"
     ],
     "pluginsConfig": {
