@@ -1,13 +1,11 @@
 {
     "plugins": [
-        "mathjax",
         "addcssjs",
         "modal-youtube-video",
-        "gtm",
-        "ga",
-        "disqus",
         "quiz",
-        "anchor-navigation"
+        "mathjax",
+        "gtm",
+        "ga"
     ],
     "pluginsConfig": {
         "addcssjs": {
