@@ -481,3 +481,6 @@ transition: all 0.8s ease;
 .space {
     margin-bottom: 40px;
 }
+.book .book-body .page-wrapper .page-inner section.normal a[href*=biggggidea] {
+    color: rgb(250,175,0);
+}
