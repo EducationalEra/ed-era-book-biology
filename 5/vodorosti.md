@@ -8,7 +8,7 @@
 </ol>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Слань (талом)</b> – тіло водоростей, не почленоване на тканини та органи.
 </div>
@@ -23,7 +23,7 @@
 </ol>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <p><b>Альгологiя</b> – наука, яка вивчає водоростi.</p>
 <p><b>Планктон</b> – органiзми, якi живуть у товщi води, та пересуваються з нею.</p>
