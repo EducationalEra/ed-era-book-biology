@@ -1,7 +1,7 @@
 # Пагiн: загальна характеристика
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Пагiн</b> — надземний вегетативний орган рослин, який складається зi стебла, бруньок i листкiв.
 </div>
@@ -15,7 +15,7 @@
 </div>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Стебло</b> – це вiсь усього пагона.
 </div>
@@ -24,7 +24,7 @@
 На стеблi тримаються листки та бруньки.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Листки</b> — бiчнi частини пагона, якi здiйснюють фотосинтез i транспiрацiю (випаровування).
 </div>
