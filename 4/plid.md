@@ -33,6 +33,7 @@
 <div class="popup">
 </div>
 
+<br>
 <quiz>
 <question>
 <p>Співвіднесіть шар оплодня та характеристику:<br>
