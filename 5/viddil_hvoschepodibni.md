@@ -37,6 +37,7 @@
 <div class="popup">
 </div>
 
+<br>
 <quiz>
 <question>
 <p>Підземна частина хвощеподібних – це:</p>
