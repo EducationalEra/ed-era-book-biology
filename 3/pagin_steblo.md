@@ -1,7 +1,7 @@
 # Пагiн: стебло
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Стебло</b> — це вiсь пагона, яка несе на собi бруньки та листки.
 </div>
@@ -38,6 +38,7 @@
 <div class="popup">
 </div> 
 
+<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check"> 
     <question text="">
         <p>У 5-річній гілці яблуні:</p>
