@@ -18,7 +18,7 @@
 -   Наявність <span class="p1">смоляних ходів</span>;
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Смолянi ходи</b> – це тканина, ходи якої заповненi ефiрними олiями, бальзамами та смолами.
 </div>
