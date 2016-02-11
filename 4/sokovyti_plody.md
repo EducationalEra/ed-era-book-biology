@@ -1,7 +1,7 @@
 # Соковиті плоди
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Соковиті плоди</b> – плоди, оплодень яких містить 70-80% води.
 </div>
