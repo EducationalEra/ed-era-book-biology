@@ -15,8 +15,8 @@
 </div>
 <div class="popup">
 </div>
-<br>
 
+<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>До видозмін кореня відноситься:</p>
