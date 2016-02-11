@@ -58,6 +58,7 @@
 <div class="popup">
 </div>
 
+<br>
 <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
