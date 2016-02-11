@@ -1,7 +1,7 @@
 # Суцвіття
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Суцвiття</b> — це сукупнiсть квiток, розташованих на однiй осi.
 </div>
