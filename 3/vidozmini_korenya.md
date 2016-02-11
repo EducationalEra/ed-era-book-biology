@@ -15,7 +15,6 @@
 </div>
 <div class="popup">
 </div>
- <br>
 
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
