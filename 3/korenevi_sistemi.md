@@ -19,8 +19,7 @@
 <div class="popup">
 </div>
 
-
-
+<br>
 <quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
     <question text="">
         <p>Дводольним рослинам властива:</p>
