@@ -51,7 +51,7 @@
 <span class="p1">двостатеві</span>, <span class="p1">одностатеві</span> та <span class="p1">стерильні</span>.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <p><b>Двостатева квiтка</b> — це квiтка, у якiй наявнi тичинки та маточка. Властивi
 бiльшостi покритонасiнних рослин.</p>
