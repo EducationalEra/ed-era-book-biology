@@ -4,7 +4,7 @@
 Розрiзняють листопаднi та вiчнозеленi рослини.
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Листопаднi рослини</b> — це тi, якi перебувають якийсь час у безлистому станi.
 </div>
