@@ -28,6 +28,7 @@
 <div class="popup">
 </div>
 
+<br>
 <quiz>
 <question text="">
     <p>В гіркокаштану листки:</p>
