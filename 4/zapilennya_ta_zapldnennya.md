@@ -2,7 +2,7 @@
 ========================
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Запилення</b> — це процес перенесення пилку з тичинок на приймочку маточки.
 </div>
@@ -42,7 +42,7 @@
 <div class="popup">
 </div>
 
-
+<br>
 <quiz>
 <question>
 <p>Липкий пилок – це пристосування до запилення:</p>
