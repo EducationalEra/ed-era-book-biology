@@ -17,6 +17,7 @@
 <div class="popup">
 </div>
 
+<br>
 <quiz>
 <question text="">
     <p>Фотосинтез найактивніше відбувається у:</p>
