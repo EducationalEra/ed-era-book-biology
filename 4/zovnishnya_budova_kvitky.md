@@ -1,7 +1,7 @@
 #Зовнішня будова квітки
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Квiтка</b> — це орган статевого розмноження, який являє собою видозмiнений i вкорочений пагiн.
 </div>
