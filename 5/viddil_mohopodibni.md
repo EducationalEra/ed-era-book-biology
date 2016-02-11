@@ -7,7 +7,7 @@
 </ol>
 
 <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Ризоїди</b> – коренеподібні вирости покривних тканин стебла.
 </div>
