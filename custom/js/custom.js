@@ -8,6 +8,7 @@ $(document).ready(function() {
     href = $lastLink.prop("href");
     href = "https://ed-era.com/books/" + _.last(href.split("-"));
     $lastLink.prop("href", href);
+    $(".articles .chapter>span").css("color", "lightgray");
   }
   init();
   require(["gitbook"], function (gitbook) {
